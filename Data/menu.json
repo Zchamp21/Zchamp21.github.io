@@ -1,0 +1,62 @@
+{
+  "shareables": {
+    "ItemsList": [
+      {
+        "ItemName": "BRAZIN NACHOS",
+        "Description": "HATCH CHILE & BEER CHEESE SAUCE, PICO DE GALLO, LIME CREMA, HOUSE MADE SALSA, LETTUCE, CHEDDAR",
+        "ExtrasDescription": "ADD PORK CARNITAS 4, BARBACOA 5, JACKFRUIT 5",
+        "Price": "12",
+        "VegatarianAvailable": true,
+        "GlutenFreeAvailable": true
+      },
+      {
+        "ItemName": "BEER BATTERED CHEESE CURDS",
+        "Description": "MAPLE CHIPOTLE KETCHUP",
+        "ExtrasDescription": "BACON DUST 2",
+        "Price": "12",
+        "VegatarianAvailable": true,
+        "GlutenFreeAvailable": false
+      },
+      {
+        "ItemName": "BRICK OVEN WINGS",
+        "Description": "PASSIVE AGRESSIVE, BUFFALO, BBQ, SWEET CHILE MARMALADE, CAJUN, JERK, OR DILL PICKLE",
+        "ExtrasDescription": "BONELESS 14, VEGAN CAULIFLOWER 12",
+        "Price": "16",
+        "VegatarianAvailable": true,
+        "GlutenFreeAvailable": false
+      },
+      {
+        "ItemName": "LYNCHBURG STUFFED MUSHROOMS",
+        "Description": "APPLEWOOD SMOKED BACON, BLACK WALNUT, JACK CHEESE, JACK DANIEL'S TENESSEE WHISKEY™",
+        "ExtrasDescription": "",
+        "Price": "14",
+        "VegatarianAvailable": false,
+        "GlutenFreeAvailable": false
+      },
+      {
+        "ItemName": "SPINACH ARTICHOKE DIP",
+        "Description": "HATCH CHILE, BRICK OVEN WARMED, CIABATTA",
+        "ExtrasDescription": "",
+        "Price": "14",
+        "VegatarianAvailable": true,
+        "GlutenFreeAvailable": false
+      },
+      {
+        "ItemName": "DEVILED SCOTCH EGGS",
+        "Description": "HARD BOILED EGG, SAUSAGE, DIJONAISE",
+        "ExtrasDescription": "",
+        "Price": "16",
+        "VegatarianAvailable": false,
+        "GlutenFreeAvailable": false
+      },
+      {
+        "ItemName": "AHI LETTUCE WRAPS",
+        "Description": "AHI TUNA, ROMAINE, CUCUMBER, DAIKON RADISH, SPICY KIMCHI, PICKLED RED ONION, GOCHUJANG AIOLI",
+        "ExtrasDescription": "",
+        "Price": "16",
+        "VegatarianAvailable": false,
+        "GlutenFreeAvailable": false
+      }
+    ]
+  }
+}
