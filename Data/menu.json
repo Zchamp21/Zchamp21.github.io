@@ -57,14 +57,6 @@
           "Price": "16",
           "VegatarianAvailable": false,
           "GlutenFreeAvailable": false
-        },
-        {
-          "ItemName": "delete me",
-          "Description": "delete me",
-          "ExtrasDescription": "delete me",
-          "Price": "delete me",
-          "VegatarianAvailable": false,
-          "GlutenFreeAvailable": false
         }
       ]
     },
