@@ -134,7 +134,7 @@
       "ItemsList": [
         {
           "ItemName": "SOUTHWEST BUDDHA BOWL",
-          "Description": "QUINOA, GARBANZO, KALE, SWEET POTATO, HATCH CHILE, TOMATILLO, BLACK BEAN, CILANTRO, COTIJA, LIME VINAIGRETTE",
+          "Description": "QUINOA, GARBANZO, KALE, SWEET POTATO, HATCH CHILE, TOMATILLO, BLACK BEAN, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
@@ -195,7 +195,7 @@
         },
         {
           "ItemName": "MINNEAPPLE",
-          "Description": "PEPPERONI, DIAVOLA SALAMI, HONEYCRISP APPLE, RED SAUCE, SAMBAL HONEY",
+          "Description": "PEPPERONI, DIAVOLA SALAMI, HONEYCRISP APPLE, SAN MARZANO TOMATO, SAMBAL HONEY",
           "ExtrasDescription": "",
           "Price": "19",
           "VegatarianAvailable": false,
@@ -203,7 +203,7 @@
         },
         {
           "ItemName": "HAWAIIAN BBQ",
-          "Description": "PORK CARNITAS, BBQ, PICKLED ONION & JALAPEÑO, PINEAPPLE, CILANTRO",
+          "Description": "PORK CARNITAS, BBQ, PICKLED ONION & JALAPEÑO, PINEAPPLE, CILANTRO, SAN MARZANO TOMATO",
           "ExtrasDescription": "",
           "Price": "19",
           "VegatarianAvailable": false,
@@ -211,7 +211,7 @@
         },
         {
           "ItemName": "THE SIMPLE LIFE",
-          "Description": "PEPPERONI OR ITALIAN SAUSAGE, RED SAUCE, MOZZARELLA",
+          "Description": "PEPPERONI OR ITALIAN SAUSAGE, SAN MARZANO TOMATO, MOZZARELLA",
           "ExtrasDescription": "",
           "Price": "13",
           "VegatarianAvailable": false,
@@ -402,6 +402,7 @@
 
     "Entrees": {
       "MainDescription": "FRESH BAKED CIABATTA & HOUSE GARLIC-HERB BUTTER",
+      "ExtrasDescription": "ADD SOUP DU JOUR OR SALAD 5, ELOTE CORN CHOWDER 6",
       "ExtraDetails": "AVAILABLE DAILY AFTER 4PM",
       "Chicken": {
         "ItemsList": [
@@ -483,7 +484,7 @@
           {
             "ItemName": "BRAZIN MAC-N-CHEESE",
             "Description": "FIVE CHEESE SAUCE, BREAD CRUMBS & MOZZARELLA",
-            "ExtrasDescription": "BACON 3, BARBACOA 5, PORK CARNITAS 5, SEAFOOD 8 (BARBACOA & CARNITAS INCLUDE BBQ, PICKLED ONION & JALAPEÑO)",
+            "ExtrasDescription": "APPLEWOOD BACON 3, BARBACOA 5, PORK CARNITAS 5, SHRIMP 9 (BARBACOA & CARNITAS INCLUDE BBQ, PICKLED ONION & JALAPEÑO)",
             "Price": "17",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
