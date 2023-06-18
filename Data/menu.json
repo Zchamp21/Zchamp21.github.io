@@ -484,5 +484,30 @@
         ]
       }
     }
+  },
+
+  "SPECIALS": {
+    "Events": [
+      {
+        "EventTitle": "HAPPY HOUR TUESDAY - FRIDAY 3-6 PM",
+        "EventDetails": ""
+      },
+      {
+        "EventTitle": "TACO TUESDAY",
+        "EventDetails": "$3 \"FAST FOOD\" TACOS & $5 MARGARITAS"
+      },
+      {
+        "EventTitle": "WING IT WEDNESDAY",
+        "EventDetails": "HALF PRICE BONE-IN WINGS & $3 DOMESTIC BOTTLES"
+      },
+      {
+        "EventTitle": "THURSDAY NIGHT DATE NIGHT 1/2 PRICE BOTTLES OF WINE",
+        "EventDetails": "2 FOR $30 SPECIALTY PASTAS, PROTEIN EXTRA"
+      },
+      {
+        "EventTitle": "FRIDAY & SATURDAY SEA SALT & ROSEMARY CRUSTED PRIME RIB",
+        "EventDetails": "FRESH FISH & SEAFOOD"
+      }
+    ]
   }
 }
