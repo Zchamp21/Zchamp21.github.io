@@ -752,30 +752,81 @@
 
   "KIDS_MENU": {
     "ItemsList": [
-        {
-          "ItemName": "GRIDDLE CAKES OR FRENCH TOAST",
-          "Description": "BUTTERMILK OR BLUEBERRY",
-          "ExtrasDescription": "APPLEWOOD BACON OR SAUSAGE LINKS 3",
-          "Price": "10"
-        },
-        {
-          "ItemName": "KIDS BREAKFAST",
-          "Description": "SCRAMBLED EGGS, CHOICE OF BACON OR SAUSAGE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "",
-          "Price": "10"
-        },
-        {
-          "ItemName": "SMASH'D BURGER",
-          "Description": "4 OZ BURGER, CHOICE OF FRIES, SWEET POTATO FRIES, ROASTED VEGETABLES, OR FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "",
-          "Price": "10"
-        },
-        {
-          "ItemName": "BONELESS WINGS",
-          "Description": "KIDS SIZE PORTION OF OUR BONELESS WINGS WITH FRIES, SWEET POTATO FRIES, ROASTED VEGETABLES OR FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "",
-          "Price": "10"
-        }
-      ]
+      {
+        "ItemName": "GRIDDLE CAKES OR FRENCH TOAST",
+        "Description": "BUTTERMILK OR BLUEBERRY",
+        "ExtrasDescription": "APPLEWOOD BACON OR SAUSAGE LINKS 3",
+        "Price": "10"
+      },
+      {
+        "ItemName": "KIDS BREAKFAST",
+        "Description": "SCRAMBLED EGGS, CHOICE OF BACON OR SAUSAGE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "10"
+      },
+      {
+        "ItemName": "SMASH'D BURGER",
+        "Description": "4 OZ BURGER, CHOICE OF FRIES, SWEET POTATO FRIES, ROASTED VEGETABLES, OR FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "10"
+      },
+      {
+        "ItemName": "BONELESS WINGS",
+        "Description": "KIDS SIZE PORTION OF OUR BONELESS WINGS WITH FRIES, SWEET POTATO FRIES, ROASTED VEGETABLES OR FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "10"
+      }
+    ]
+  },
+
+
+  "HAPPY_HOUR": {
+    "ItemsList": [
+      {
+        "ItemName": "PRETZEL STICKS",
+        "Description": "HATCH CHILI BEER CHEESE SAUCE",
+        "Price": "7"
+      },
+      {
+        "ItemName": "CHICKEN WINGS",
+        "Description": "HALF PRICE WINGS, BONE-IN ONLY",
+        "Price": "8"
+      },
+      {
+        "ItemName": "PARMESAN FRITES",
+        "Description": "GARLIC PARMESAN AIOLI",
+        "Price": "6"
+      },
+      {
+        "ItemName": "CHIPS & SALSA",
+        "Description": "WARM TORTILLA CHIPS, HOUSE MADE SALSA",
+        "Price": "6"
+      },
+      {
+        "ItemName": "PEPPERONI OR SAUSAGE FLATBREAD",
+        "Description": "RED SAUCE, PEPPERONI OR SAUSAGE, MOZZARELLA",
+        "Price": "10"
+      },
+      {
+        "ItemName": "MARGARITA FLATBREAD",
+        "Description": "TOMATO BASIL, MOZZARELLA",
+        "Price": "9"
+      },
+      {
+        "ItemName": "FRIED SALTY MEDLEY",
+        "Description": "CHEESE CURDS, OLIVES, PICKLES, JALAPEÑOS",
+        "Price": "9"
+      },
+      {
+        "ItemName": "$3 DOMESTIC LONGNECKS",
+        "Description": "MILLER, MICHELOB, GRAIN BELT",
+        "Price": ""
+      },
+      {
+        "ItemName": "$2 OFF COCKTAILS, GLASS WINE, CRAFT BEER",
+        "Description": "",
+        "Price": ""
+      }
+    ]
   }
 }
