@@ -829,5 +829,192 @@
         "Price": ""
       }
     ]
+  },
+
+
+  "DRINKS": {
+    "Cocktails": {
+      "ItemsList": [
+        {
+          "ItemName": "MAPLE OLD FASHIONED",
+          "Description": "BUFFALO TRACE BOURBON, VERMONT MAPLE, ORANGE, CHERRY BITTERS",
+          "ExtraDetails": "",
+          "Price": "11"
+        },
+        {
+          "ItemName": "MARGARITA",
+          "Description": "DON JULIO REPOSADO, COINTREAU, TUACA, LIME, AGAVE NECTAR",
+          "ExtraDetails": "• ADD JALAPEÑO 1 •",
+          "Price": "11"
+        },
+        {
+          "ItemName": "SALTY DOG SPRITZ",
+          "Description": "PROSECCO, SMIRNOFF GRAPEFRUIT VODKA, GRAPEFRUIT JUICE, CLUB SODA, GRAPEFRUIT POPSICLE",
+          "ExtraDetails": "",
+          "Price": "10"
+        },
+        {
+          "ItemName": "ROSEMARY PALOMA",
+          "Description": "PROLIJO MEZCAL, RUBY GRAPEFRUIT, SUGAR, CLUB SODA, ROSEMARY",
+          "ExtraDetails": "",
+          "Price": "10"
+        },
+        {
+          "ItemName": "CLASSIC MOJITO",
+          "Description": "REAL MCCOY 3 YR WHITE RUM, SUGAR, MINT, CLUB SODA",
+          "ExtraDetails": "• VARIATIONS: STRAWBERRY, BLACKBERRY, MIXED BERRY ADD'L 1 •",
+          "Price": "9"
+        },
+        {
+          "ItemName": "BLACKBERRY BOURBON SMASH",
+          "Description": "WOODFORD RESERVE, SUGAR, LIME, BLACKBERRY, CLUB SODA",
+          "ExtraDetails": "",
+          "Price": "10"
+        },
+        {
+          "ItemName": "BLOOD ORANGE NEGRONI",
+          "Description": "MCQUEEN & THE VIOLET FOG GIN, CYNAR, GRASSOTTI VERMOUTH, BLOOD ORANGE PUREE",
+          "ExtraDetails": "",
+          "Price": "10"
+        },
+        {
+          "ItemName": "DARK 'N STORMY",
+          "Description": "GOSLINGS BLACK SEAL RUM, LIME, FENTIMAN'S GINGER BEER",
+          "ExtraDetails": "",
+          "Price": "9"
+        },
+        {
+          "ItemName": "BRAZIN TOP SHELF MULES",
+          "Description": "CHOICE OF SPIRIT, FENTIMAN'S GINGER BEER, LIME",
+          "ExtraDetails": "• CHOPIN VODKA, SLANE IRISH WHISKEY, DON JULIO REPOSADO, HENDRICK'S GIN, OR BUFFALO TRACE BOURBON •",
+          "Price": "10"
+        }
+      ]
+    },
+
+    "Mocktails": {
+      "ItemsList": [
+        {
+          "ItemName": "MINTED LIME SPRITZ",
+          "Description": "FRESH LIME JUICE, MINT & FENTIMAN'S GINGER BEER",
+          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PEACH, STRAWBERRY 1 •",
+          "Price": "6"
+        },
+        {
+          "ItemName": "CUCUMBER REFRESHER",
+          "Description": "CUCUMBER, FRESH LIME JUICE, SIMPLE SYRUP, CLUB SODA",
+          "ExtraDetails": "",
+          "Price": "6"
+        },
+        {
+          "ItemName": "ROSEMARY LEMONADE FIZZ",
+          "Description": "FRESH SQUEEZED LEMONADE, CLUB SODA, ROSEMARY",
+          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PEACH, STRAWBERRY 1 •",
+          "Price": "6"
+        }
+      ]
+    },
+
+    "Wine": {
+      "ItemsList": [
+        {
+          "Header": "By The Glass",
+          "WineList": [
+            {
+              "ItemName": "SAUVIGNON BLANC",
+              "Price": "10"
+            }
+          ]
+        },
+        {
+          "Header": "Whites & Rosé",
+          "WineList": [
+            {
+              "ItemName": "SAUVIGNON BLANC",
+              "Price": "21"
+            }
+          ]
+        },
+        {
+          "Header": "Reds",
+          "WineList": [
+            {
+              "ItemName": "CABERNET",
+              "Price": "25"
+            }
+          ]
+        },
+        {
+          "Header": "Bubbles",
+          "WineList": [
+            {
+              "ItemName": "PROSECCO",
+              "Price": "51"
+            }
+          ]
+        }
+      ]
+    },
+
+    "BeerOnTap": {
+      "ItemsList": [
+        "COOR'S LIGHT",
+        "BUDWIESER",
+        "BLUE MOON",
+        "BELLS TWO HEARTED ALE",
+        "SEASONAL DOWNEAST CIDER",
+        "LOCAL ROTATING",
+        "SEASONAL ROTATING",
+        "NATIONAL ROTATING"
+      ]
+    },
+
+    "BottledBeer": {
+      "ItemsList": [
+        {
+          "Header": "Hoppy",
+          "BeerList": [
+            "SURLY FURIOUS",
+            "MODIST DREAMYARD",
+            "SUMMIT EXTRA PALE ALE",
+            "BENT PADDLE BENT HOP",
+            "BENT PADDLE KANŪ",
+            "TOPPLING GOLIATH PSUEDO SUE",
+            "DESCHUTES FRESH SQUEEZED"
+          ]
+        },
+        {
+          "Header": "Lagers, Ales & Pilsner",
+          "BeerList": [
+            "MILLER LITE",
+            "MICHELOB GLDN DR LGT",
+            "MICHELOB ULTRA",
+            "GRAIN BELT PREMIUM",
+            "GRAIN BELT NORDEAST",
+            "FULTON LONELY BLONDE",
+            "CORONA EXTRA",
+            "CORONA LIGHT"
+          ]
+        },
+        {
+          "Header": "Stouts & Porters",
+          "BeerList": [
+            "LEFT HAND MILK STOUT",
+            "DESCHUTES BLACK BUTTE PORTER",
+            "BENT PADDLE BLACK ALE"
+          ]
+        },
+        {
+          "Header": "Sours, Cider & Seltzer",
+          "BeerList": [
+            "DREKKER PEOPLE EATER",
+            "BREWING PROJEKT SMOOFEE",
+            "LOON JUICE HONEYCRISP",
+            "TRULY BLACK CHERRY, MANGO, LIME",
+            "STILLY CRANBERRY LIME, GRAPEFRUIT, PEACH"
+          ]
+        }
+      ]
+    }
   }
 }
