@@ -918,7 +918,7 @@
     "Wine": {
       "ItemsList": [
         {
-          "Header": "By The Glass",
+          "Header": "BY THE GLASS",
           "WineList": [
             {
               "ItemName": "SAUVIGNON BLANC",
@@ -927,7 +927,7 @@
           ]
         },
         {
-          "Header": "Whites & Rosé",
+          "Header": "WHITES & ROSÉ",
           "WineList": [
             {
               "ItemName": "SAUVIGNON BLANC",
@@ -936,7 +936,7 @@
           ]
         },
         {
-          "Header": "Reds",
+          "Header": "REDS",
           "WineList": [
             {
               "ItemName": "CABERNET",
@@ -945,7 +945,7 @@
           ]
         },
         {
-          "Header": "Bubbles",
+          "Header": "BUBBLES",
           "WineList": [
             {
               "ItemName": "PROSECCO",
@@ -972,7 +972,7 @@
     "BottledBeer": {
       "ItemsList": [
         {
-          "Header": "Hoppy",
+          "Header": "HOPPY",
           "BeerList": [
             "SURLY FURIOUS",
             "MODIST DREAMYARD",
@@ -984,7 +984,7 @@
           ]
         },
         {
-          "Header": "Lagers, Ales & Pilsner",
+          "Header": "LAGERS, ALES & PILSNER",
           "BeerList": [
             "MILLER LITE",
             "MICHELOB GLDN DR LGT",
@@ -997,7 +997,7 @@
           ]
         },
         {
-          "Header": "Stouts & Porters",
+          "Header": "STOUTS & PORTERS",
           "BeerList": [
             "LEFT HAND MILK STOUT",
             "DESCHUTES BLACK BUTTE PORTER",
@@ -1005,7 +1005,7 @@
           ]
         },
         {
-          "Header": "Sours, Cider & Seltzer",
+          "Header": "SOURS, CIDER & SELTZER",
           "BeerList": [
             "DREKKER PEOPLE EATER",
             "BREWING PROJEKT SMOOFEE",
