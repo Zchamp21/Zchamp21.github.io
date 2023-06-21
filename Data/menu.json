@@ -974,44 +974,113 @@
         {
           "Header": "HOPPY",
           "BeerList": [
-            "SURLY FURIOUS",
-            "MODIST DREAMYARD",
-            "SUMMIT EXTRA PALE ALE",
-            "BENT PADDLE BENT HOP",
-            "BENT PADDLE KANŪ",
-            "TOPPLING GOLIATH PSUEDO SUE",
-            "DESCHUTES FRESH SQUEEZED"
+            {
+              "ItemName": "SURLY FURIOUS",
+              "Price": ""
+            },
+            {
+              "ItemName": "MODIST DREAMYARD",
+              "Price": ""
+            },
+            {
+              "ItemName": "SUMMIT EXTRA PALE ALE",
+              "Price": ""
+            },
+            {
+              "ItemName": "BENT PADDLE BENT HOP",
+              "Price": ""
+            },
+            {
+              "ItemName": "BENT PADDLE KANŪ",
+              "Price": ""
+            },
+            {
+              "ItemName": "TOPPLING GOLIATH PSUEDO SUE",
+              "Price": ""
+            },
+            {
+              "ItemName": "DESCHUTES FRESH SQUEEZED",
+              "Price": ""
+            }
           ]
         },
         {
           "Header": "LAGERS, ALES & PILSNER",
           "BeerList": [
-            "MILLER LITE",
-            "MICHELOB GLDN DR LGT",
-            "MICHELOB ULTRA",
-            "GRAIN BELT PREMIUM",
-            "GRAIN BELT NORDEAST",
-            "FULTON LONELY BLONDE",
-            "CORONA EXTRA",
-            "CORONA LIGHT"
+            {
+              "ItemName": "MILLER LITE",
+              "Price": ""
+            },
+            {
+              "ItemName": "MICHELOB GLDN DR LGT",
+              "Price": ""
+            },
+            {
+              "ItemName": "MICHELOB ULTRA",
+              "Price": ""
+            },
+            {
+              "ItemName": "GRAIN BELT PREMIUM",
+              "Price": ""
+            },
+            {
+              "ItemName": "GRAIN BELT NORDEAST",
+              "Price": ""
+            },
+            {
+              "ItemName": "FULTON LONELY BLONDE",
+              "Price": ""
+            },
+            {
+              "ItemName": "CORONA EXTRA",
+              "Price": ""
+            },
+            {
+              "ItemName": "CORONA LIGHT",
+              "Price": ""
+            }
           ]
         },
         {
           "Header": "STOUTS & PORTERS",
           "BeerList": [
-            "LEFT HAND MILK STOUT",
-            "DESCHUTES BLACK BUTTE PORTER",
-            "BENT PADDLE BLACK ALE"
+            {
+              "ItemName": "LEFT HAND MILK STOUT",
+              "Price": ""
+            },
+            {
+              "ItemName": "DESCHUTES BLACK BUTTE PORTER",
+              "Price": ""
+            },
+            {
+              "ItemName": "BENT PADDLE BLACK ALE",
+              "Price": ""
+            }
           ]
         },
         {
           "Header": "SOURS, CIDER & SELTZER",
           "BeerList": [
-            "DREKKER PEOPLE EATER",
-            "BREWING PROJEKT SMOOFEE",
-            "LOON JUICE HONEYCRISP",
-            "TRULY BLACK CHERRY, MANGO, LIME",
-            "STILLY CRANBERRY LIME, GRAPEFRUIT, PEACH"
+            {
+              "ItemName": "DREKKER PEOPLE EATER",
+              "Price": ""
+            },
+            {
+              "ItemName": "BREWING PROJEKT SMOOFEE",
+              "Price": ""
+            },
+            {
+              "ItemName": "LOON JUICE HONEYCRISP",
+              "Price": ""
+            },
+            {
+              "ItemName": "TRULY BLACK CHERRY, MANGO, LIME",
+              "Price": ""
+            },
+            {
+              "ItemName": "STILLY CRANBERRY LIME, GRAPEFRUIT, PEACH",
+              "Price": ""
+            }
           ]
         }
       ]
