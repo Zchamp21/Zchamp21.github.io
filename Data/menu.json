@@ -919,7 +919,7 @@
       "ItemsList": [
         {
           "Header": "BY THE GLASS",
-          "WineList": [
+          "DrinkList": [
             {
               "ItemName": "SAUVIGNON BLANC",
               "Price": "10"
@@ -928,7 +928,7 @@
         },
         {
           "Header": "WHITES & ROSÉ",
-          "WineList": [
+          "DrinkList": [
             {
               "ItemName": "SAUVIGNON BLANC",
               "Price": "21"
@@ -937,7 +937,7 @@
         },
         {
           "Header": "REDS",
-          "WineList": [
+          "DrinkList": [
             {
               "ItemName": "CABERNET",
               "Price": "25"
@@ -946,7 +946,7 @@
         },
         {
           "Header": "BUBBLES",
-          "WineList": [
+          "DrinkList": [
             {
               "ItemName": "PROSECCO",
               "Price": "51"
@@ -973,7 +973,7 @@
       "ItemsList": [
         {
           "Header": "HOPPY",
-          "BeerList": [
+          "DrinkList": [
             {
               "ItemName": "SURLY FURIOUS",
               "Price": ""
@@ -1006,7 +1006,7 @@
         },
         {
           "Header": "LAGERS, ALES & PILSNER",
-          "BeerList": [
+          "DrinkList": [
             {
               "ItemName": "MILLER LITE",
               "Price": ""
@@ -1043,7 +1043,7 @@
         },
         {
           "Header": "STOUTS & PORTERS",
-          "BeerList": [
+          "DrinkList": [
             {
               "ItemName": "LEFT HAND MILK STOUT",
               "Price": ""
@@ -1060,7 +1060,7 @@
         },
         {
           "Header": "SOURS, CIDER & SELTZER",
-          "BeerList": [
+          "DrinkList": [
             {
               "ItemName": "DREKKER PEOPLE EATER",
               "Price": ""
