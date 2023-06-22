@@ -1113,39 +1113,47 @@
         }
       ]
     },
-    
+
     "Cordials": {
       "ItemsList": [
         {
           "ItemName": "GRASSHOPPER",
+          "Description": "",
           "Price": "10"
         },
         {
           "ItemName": "BRANDY ALEXANDER",
+          "Description": "",
           "Price": "10"
         },
         {
           "ItemName": "PINK SQUIRREL",
+          "Description": "",
           "Price": "10"
         },
         {
           "ItemName": "ADULT ROOT BEER FLOAT",
+          "Description": "",
           "Price": "10"
         },
         {
           "ItemName": "MUDSLIDE",
+          "Description": "",
           "Price": "10"
         },
         {
           "ItemName": "DISARONNO AMARETTO",
+          "Description": "",
           "Price": "8"
         },
         {
           "ItemName": "ESPRESSO MARTINI",
+          "Description": "",
           "Price": "10"
         },
         {
           "ItemName": "WHITE RUSSIAN",
+          "Description": "",
           "Price": "8"
         }
       ]
