@@ -1085,5 +1085,70 @@
         }
       ]
     }
+  },
+
+
+  "DESSERT": {
+    "Desserts": {
+      "ItemsList": [
+        {
+          "ItemName": "HOUSE MADE CHEESECAKE",
+          "Description": "ASK YOUR SERVER FOR OUR FEATURED FLAVOR",
+          "Price": "10"
+        },
+        {
+          "ItemName": "BANANAS FOSTER BREAD PUDDING",
+          "Description": "BANANA, DARK RUM, CHANTILLY CREAM, CEYLON CINNAMON",
+          "Price": "10"
+        },
+        {
+          "ItemName": "DARK CHOCOLATE GANACHE TART",
+          "Description": "SEMI SWEET CHOCOLATE, CREAM, GLUTEN FREE SHORTBREAD, CHANTILLY CREAM, STRAWBERRY ROSE",
+          "Price": "10"
+        },
+        {
+          "ItemName": "CHOCOLATE CHIP COOKIE",
+          "Description": "VANILLA BEAN ICE CREAM, CHOCOLATE FUDGE, CHANTILLY CREAM, CHERRY",
+          "Price": "10"
+        }
+      ]
+    },
+    
+    "Cordials": {
+      "ItemsList": [
+        {
+          "ItemName": "GRASSHOPPER",
+          "Price": "10"
+        },
+        {
+          "ItemName": "BRANDY ALEXANDER",
+          "Price": "10"
+        },
+        {
+          "ItemName": "PINK SQUIRREL",
+          "Price": "10"
+        },
+        {
+          "ItemName": "ADULT ROOT BEER FLOAT",
+          "Price": "10"
+        },
+        {
+          "ItemName": "MUDSLIDE",
+          "Price": "10"
+        },
+        {
+          "ItemName": "DISARONNO AMARETTO",
+          "Price": "8"
+        },
+        {
+          "ItemName": "ESPRESSO MARTINI",
+          "Price": "10"
+        },
+        {
+          "ItemName": "WHITE RUSSIAN",
+          "Price": "8"
+        }
+      ]
+    }
   }
 }
