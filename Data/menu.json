@@ -4,7 +4,7 @@
       "ItemsList": [
         {
           "ItemName": "BRAZIN NACHOS",
-          "Description": "HATCH CHILE & BEER CHEESE SAUCE, PICO DE GALLO, LIME CREMA, HOUSE MADE SALSA, LETTUCE, CHEDDAR",
+          "Description": "POBLANO, FRESNO & BEER CHEESE SAUCE, PICO DE GALLO, LIME CREMA, HOUSE MADE SALSA, LETTUCE, CHEDDAR",
           "ExtrasDescription": "ADD PORK CARNITAS 4, BARBACOA 5, JACKFRUIT 5",
           "Price": "12",
           "VegatarianAvailable": true,
@@ -21,7 +21,7 @@
         {
           "ItemName": "BRICK OVEN WINGS",
           "Description": "PASSIVE AGRESSIVE, BUFFALO, BBQ, SWEET CHILE MARMALADE, CAJUN, JERK, OR DILL PICKLE",
-          "ExtrasDescription": "BONELESS 14, VEGAN CAULIFLOWER 12",
+          "ExtrasDescription": "BONELESS GRILLED CHICKEN 14, VEGAN CAULIFLOWER 12",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -36,7 +36,7 @@
         },
         {
           "ItemName": "SPINACH ARTICHOKE DIP",
-          "Description": "HATCH CHILE, BRICK OVEN WARMED, CIABATTA",
+          "Description": "POBLANO, FRESNO, BABY SPINACH, ARTICHOKE, 3 CHEESE BLEND, CIABATTA",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": true,
@@ -52,7 +52,7 @@
         },
         {
           "ItemName": "AHI LETTUCE WRAPS",
-          "Description": "AHI TUNA, ROMAINE, CUCUMBER, DAIKON RADISH, SPICY KIMCHI, PICKLED RED ONION, GOCHUJANG AIOLI",
+          "Description": "AHI TUNA, REVOL ROMAINE, CUCUMBER, DAIKON RADISH, SPICY KIMCHI, PICKLED RED ONION, GOCHUJANG AIOLI",
           "ExtrasDescription": "",
           "Price": "16",
           "VegatarianAvailable": false,
@@ -73,7 +73,7 @@
         },
         {
           "ItemName": "ELOTE CORN CHOWDER",
-          "Description": "HATCH CHILES, CUMIN, CREAM, ROASTED CORN, HOT SAUCE",
+          "Description": "POBLANO, FRESNO, CUMIN, CREAM, ROASTED CORN, HOT SAUCE",
           "SmallPrice": "7",
           "LargePrice": "9",
           "VegatarianAvailable": true,
@@ -100,21 +100,21 @@
         },
         {
           "ItemName": "MEDITERRANEAN WEDGE SALAD",
-          "Description": "ROMAINE HEARTS, SUN DRIED TOMATO, ARTICHOKE, KALAMATA, FETA, PEPPERONCINI, PICKLED RED ONION, TZATZIKI, LEMON DILL VINAIGRETTE",
+          "Description": "REVOL BABY ROMAINE, SUN DRIED TOMATO, ARTICHOKE, KALAMATA, FETA, PEPPERONCINI, PICKLED RED ONION, TZATZIKI, LEMON DILL VINAIGRETTE",
           "Price": "14",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
         },
         {
           "ItemName": "SUMMER SUNSETS SALAD",
-          "Description": "MIXED SEASONAL GREENS, RED & YELLOW BEETS, BERRIES, COMPRESSED PINEAPPLE, MANGO, CHEVRE CROQUETTE, PASSION FRUIT VINAIGRETTE",
+          "Description": "MIXED HARVEST GREENS, RED & YELLOW BEETS, BERRIES, COMPRESSED PINEAPPLE, MANGO, CHEVRE CROQUETTE, PASSION FRUIT VINAIGRETTE",
           "Price": "13",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "CAESAR SALAD",
-          "Description": "BABY ROMAINE, GRAPE TOMATO, PARMESAN CHEESE, CROUTONS AND HOUSE CAESAR DRESSING",
+          "Description": "ICEBERG, ROMAINE, GRAPE TOMATO, PARMESAN CHEESE, CROUTONS AND HOUSE CAESAR DRESSING",
           "Price": "11",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -126,7 +126,7 @@
       "ItemsList": [
         {
           "ItemName": "SOUTHWEST BUDDHA BOWL",
-          "Description": "QUINOA, GARBANZO, KALE, SWEET POTATO, HATCH CHILE, TOMATILLO, BLACK BEAN, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
+          "Description": "QUINOA, EDAMAME, KALE, SWEET POTATO, POBLANO, FRESNO, TOMATILLO, BLACK BEAN, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
@@ -143,11 +143,11 @@
 
     "pizzas": {
       "GlutenFree": true,
-      "MainDescription": "OUR PIZZAS ARE APPROXIMATELY 11\" ROMAN STYLE THIN CRUST, SERVING 1-2 AND ARE HAND CRAFTED IN-HOUSE DAILY WITH THE FINEST ITALIAN FLOUR, FRESH HERBS & GARLIC. GLUTEN FREE CRUST AVAILABLE ADD'L 4",
+      "MainDescription": "OUR FLATBREADS SERVER 1-2 AND ARE CRAFTED FROM THE FINEST INGREDIENTS. GLUTEN FREE SWEET POTATO CRUST AVAILABLE ADD'L 4",
       "ItemsList": [
         {
           "ItemName": "MARGARITA",
-          "Description": "ROMA TOMATO, BASIL, FRESH MOZZARELLA, SAN MARZANO TOMATO, BALSAMIC",
+          "Description": "FIRE ROASTED TOMATO, BASIL, FRESH MOZZARELLA, BALSAMIC",
           "ExtrasDescription": "",
           "Price": "15",
           "VegatarianAvailable": true,
@@ -155,7 +155,7 @@
         },
         {
           "ItemName": "SWEET & SPICY GOAT",
-          "Description": "BLACKBERRY, CARAMELIZED ONION, ARUGULA, CHEVRE, SAMBAL HONEY",
+          "Description": "BLACKBERRY, CARAMELIZED ONION, ARUGULA, CHEVRE, CALABRIAN CHILE HONEY",
           "ExtrasDescription": "",
           "Price": "17",
           "VegatarianAvailable": true,
@@ -187,7 +187,7 @@
         },
         {
           "ItemName": "MINNEAPPLE",
-          "Description": "PEPPERONI, DIAVOLA SALAMI, HONEYCRISP APPLE, SAN MARZANO TOMATO, SAMBAL HONEY",
+          "Description": "PEPPERONI, DIAVOLA SALAMI, HONEYCRISP APPLE, SAN MARZANO TOMATO",
           "ExtrasDescription": "",
           "Price": "19",
           "VegatarianAvailable": false,
@@ -195,7 +195,7 @@
         },
         {
           "ItemName": "HAWAIIAN BBQ",
-          "Description": "PORK CARNITAS, BBQ, PICKLED ONION & JALAPEÑO, PINEAPPLE, CILANTRO, SAN MARZANO TOMATO",
+          "Description": "PORK CARNITAS, BBQ, PICKLED ONION & JALAPEÑO, PINEAPPLE, CILANTRO, CALABRIAN CHILE HONEY",
           "ExtrasDescription": "",
           "Price": "19",
           "VegatarianAvailable": false,
@@ -217,8 +217,8 @@
       "MainDescription": "SERVED WITH HOUSE MADE POTATO CHIPS. SUBSTITUTE FRESH FRITES OR SWEET POTATO FRIES 3. GLUTEN FREE OPTION AVAILABLE.",
       "ItemsList": [
         {
-          "ItemName": "PRIME RIB STEAK SANDWICH",
-          "Description": "CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, CIABATTA",
+          "ItemName": "SIRLOIN STEAK SANDWICH",
+          "Description": "CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -226,7 +226,7 @@
         },
         {
           "ItemName": "CUBAN",
-          "Description": "HAM, CARNITAS, DILL PICKLE, SWISS, STONE GROUND MUSTARD",
+          "Description": "HAM, CARNITAS, DILL PICKLE, SWISS, STONE GROUND MUSTARD, CIABATTA",
           "ExtrasDescription": "",
           "Price": "16",
           "VegatarianAvailable": false,
@@ -234,7 +234,7 @@
         },
         {
           "ItemName": "NORTHWOODS WALLEYE SANDWICH",
-          "Description": "PAN FRIED, MUSTARD REMOULADE, SPRING GREENS, HEIRLOOM TOMATO, WILD RICE HOAGIE",
+          "Description": "PAN FRIED, MUSTARD REMOULADE, SPRING GREENS, HEIRLOOM TOMATO, WILD RICE BAGUETTE",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -242,15 +242,15 @@
         },
         {
           "ItemName": "CAPRESE GRILLED CHEESE",
-          "Description": "MOZZARELLA, TOMATO, BASIL, BALSAMIC REDUCTION, SOURDOUGH",
+          "Description": "MOZZARELLA, FIRE ROASTED TOMATO, BASIL, BALSAMIC REDUCTION, SOURDOUGH",
           "ExtrasDescription": "",
           "Price": "11",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
-          "ItemName": "BRAZIN REUBEN OR RACHEL",
-          "Description": "CORNED BEEF OR SMOKED TURKEY, SWISS CHEESE, RUSSIAN DRESSING, COLESLAW, PUMPERNICKEL",
+          "ItemName": "BRAZIN REUBEN",
+          "Description": "CORNED BEEF, SWISS CHEESE, RUSSIAN DRESSING, COLESLAW, PUMPERNICKEL",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -258,7 +258,7 @@
         },
         {
           "ItemName": "BALT",
-          "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, GARLIC PARMESAN AIOLI, CIABATTA",
+          "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -276,7 +276,7 @@
       "ItemsList": [
         {
           "ItemName": "HAWG & SLAW*",
-          "Description": "CARNITAS, CAROLINA BARBECUE SAUCE, & APPLE NAPA CABBAGE COLESLAW",
+          "Description": "CARNITAS, CAROLINA BARBECUE SAUCE, & APPLE NAPA CABBAGE SLAW, CORNBREAD INSPIRED BUN",
           "ExtrasDescription": "",
           "QuarterPrice": "13",
           "HalfPrice": "16",
@@ -309,7 +309,7 @@
         },
         {
           "ItemName": "SEOUL FOOD*",
-          "Description": "KIMCHI, PICKLED ONION, GOCHUJANG AIOLI, WHITE CHEDDAR",
+          "Description": "KIMCHI, PICKLED ONION, GOCHUJANG AIOLI, BRIE",
           "ExtrasDescription": "",
           "QuarterPrice": "13",
           "HalfPrice": "16",
@@ -331,7 +331,7 @@
         },
         {
           "ItemName": "MUSHROOMS ETC.*",
-          "Description": "FORAGER MUSHROOMS, BRIE, BACON JAM, ROASTED GARLIC-PARMESAN AIOLI",
+          "Description": "FORAGER MUSHROOMS, BRIE, BACON JAM, ROASTED GARLIC-PARMESAN AIOLI, RUSTIC BIANCO ROLL",
           "ExtrasDescription": "",
           "QuarterPrice": "14",
           "HalfPrice": "17",
@@ -355,11 +355,11 @@
     },
 
     "tacos": {
-      "MainDescription": "SERVED ON THREE WHITE CORN TORTILLAS AND FRESH FRIED TORTILLA CHIPS WITH OUR HOUSE MADE SALSA",
+      "MainDescription": "SERVED ON THREE WARMED WHITE CORN OR FLOUR TORTILLAS; FRESH FRIED TORTILLA CHIPS AND HOUSE MADE SALSA",
       "ItemsList": [
         {
           "ItemName": "BEEF BARBACOA",
-          "Description": "BARBACOA, QUESO FRESCO, LIME COLESLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
+          "Description": "BARBACOA, QUESO FRESCO, LIME & NAPA SLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
           "ExtrasDescription": "",
           "Price": "15",
           "VegatarianAvailable": false,
@@ -367,7 +367,7 @@
         },
         {
           "ItemName": "PORK CARNITAS",
-          "Description": "CARNITAS, QUESO FRESCO, LIME COLESLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
+          "Description": "CARNITAS, QUESO FRESCO, LIME & NAPA SLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
           "ExtrasDescription": "",
           "Price": "15",
           "VegatarianAvailable": false,
@@ -375,7 +375,7 @@
         },
         {
           "ItemName": "MN WALLEYE",
-          "Description": "PAN FRIED WALLEYE, QUESO FRESCO, LIME COLESLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
+          "Description": "PAN FRIED WALLEYE, QUESO FRESCO, LIME & NAPA SLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
           "ExtrasDescription": "",
           "Price": "16",
           "VegatarianAvailable": false,
@@ -383,7 +383,7 @@
         },
         {
           "ItemName": "JACKFRUIT",
-          "Description": "CARNITAS STYLE JACKFRUIT, QUESO FRESCO, LIME COLESLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
+          "Description": "JACKFRUIT CARNITAS, QUESO FRESCO, LIME & NAPA SLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": true,
@@ -400,8 +400,8 @@
         "ItemsList": [
           {
             "ItemName": "BRICK OVEN CHICKEN MARSALA",
-            "Description": "1/2 SEMI-BONELESS HERB ROASTED CHICKEN, WILD MUSHROOM MARSALA CREAM REDUCTION",
-            "ExtrasDescription": "PERUVIAN MASHED POTATOES & BROCCOLINI",
+            "Description": "1/2 SEMI-BONELESS HERB ROASTED CHICKEN, FORAGER MUSHROOM, MARSALA CREAM REDUCTION",
+            "ExtrasDescription": "MARBLED MASHED POTATOES & BROCCOLINI",
             "Price": "26",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -418,18 +418,18 @@
         ],
         "ItemsList": [
           {
-            "ItemName": "NY STEAK FRITES",
-            "Description": "12 OZ HAND CUT NY STRIP, FRESH FRITES",
+            "ItemName": "STEAK FRITES",
+            "Description": "12 OZ CENTER CUT NEW YORK STRIP, FRESH FRITES",
             "ExtrasDescription": "",
             "Price": "36",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
           },
           {
-            "ItemName": "HAND CUT RIBEYE",
-            "Description": "16 OZ, PERUVIAN MASHED POTATOES, BROCCOLINI",
+            "ItemName": "BASEBALL SIRLOIN",
+            "Description": "8 OZ, MARBLED MASHED POTATOES, BROCCOLINI",
             "ExtrasDescription": "",
-            "Price": "42",
+            "Price": "27",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
           }
@@ -440,7 +440,7 @@
           {
             "ItemName": "DUROC PORK PORTERHOUSE",
             "Description": "APPLE CIDER & STONE GROUND MUSTARD GASTRIQUE",
-            "ExtrasDescription": "APPLE-ROOT VEGETABLE HASH",
+            "ExtrasDescription": "APPLE-ROOT VEGETABLE HASH, PREPARED MEDIUM",
             "Price": "36",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -458,15 +458,15 @@
       "Pastas": {
         "ItemsList": [
           {
-            "ItemName": "SUN-DRIED TOMATO ALFREDO",
-            "Description": "PAPPARDELLE, PARMESAN, CREAM, GARLIC, SUN-DRIED TOMATO, THYME",
+            "ItemName": "BRAZIN ALFREDO",
+            "Description": "FETTUCINNI, PARMESAN, CREAM, GARLIC, FIRE ROASTED TOMATO, THYME",
             "ExtrasDescription": "CHICKEN BREAST 5, 6 OZ NY STRIP 11, OR SKEWERED SHRIMP 9",
-            "Price": "17",
+            "Price": "18",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
           },
           {
-            "ItemName": "PAPPARDELLE ALLA PUTTANESCA CON SALSICCIA",
+            "ItemName": "RIGATONI ALLA PUTTANESCA CON SALSICCIA",
             "Description": "CALABRIAN CHILI, TOMATO, ITALIAN SAUSAGE, KALAMATA OLIVE, CAPER & BASIL",
             "ExtrasDescription": "",
             "Price": "22",
@@ -475,7 +475,7 @@
           },
           {
             "ItemName": "BRAZIN MAC-N-CHEESE",
-            "Description": "FIVE CHEESE SAUCE, BREAD CRUMBS & MOZZARELLA",
+            "Description": "FIVE CHEESE SAUCE, CAVATAPPI PASTA, BREAD CRUMBS, FONTINA, GRUYERE, GOUDA",
             "ExtrasDescription": "APPLEWOOD BACON 3, BARBACOA 5, PORK CARNITAS 5, SHRIMP 9 (BARBACOA & CARNITAS INCLUDE BBQ, PICKLED ONION & JALAPEÑO)",
             "Price": "17",
             "VegatarianAvailable": true,
@@ -489,7 +489,7 @@
   "SPECIALS": {
     "Events": [
       {
-        "EventTitle": "HAPPY HOUR TUESDAY - FRIDAY 3-6 PM",
+        "EventTitle": "HAPPY HOUR MONDAY - FRIDAY 3-6 PM",
         "EventDetails": ""
       },
       {
