@@ -5,7 +5,7 @@
         {
           "ItemName": "BRAZIN NACHOS",
           "Description": "POBLANO, FRESNO & BEER CHEESE SAUCE, PICO DE GALLO, LIME CREMA, HOUSE MADE SALSA, LETTUCE, CHEDDAR",
-          "ExtrasDescription": "ADD PORK CARNITAS 4, BARBACOA 5, JACKFRUIT 5",
+          "ExtrasDescription": "ADD PORK CARNITAS 4, BARBACOA 5, JACKFRUIT 4",
           "Price": "12",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
@@ -73,7 +73,7 @@
         },
         {
           "ItemName": "ELOTE CORN CHOWDER",
-          "Description": "POBLANO, FRESNO, CUMIN, CREAM, ROASTED CORN, HOT SAUCE",
+          "Description": "POBLANO, FRESNO, CUMIN, CREAM, ROASTED CORN, COTIJA, HOT SAUCE",
           "SmallPrice": "7",
           "LargePrice": "9",
           "VegatarianAvailable": true,
@@ -93,28 +93,28 @@
       "ItemsList": [
         {
           "ItemName": "HOUSE SALAD",
-          "Description": "MIXED GREENS, CUCUMBER, HEIRLOOM TOMATO, CARROT RIBBONS",
+          "Description": "MIXED GREENS, CUCUMBER, GRAPE TOMATO, CARROT RIBBONS, CHOICE OF DRESSING",
           "Price": "8",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "MEDITERRANEAN WEDGE SALAD",
-          "Description": "REVOL BABY ROMAINE, SUN DRIED TOMATO, ARTICHOKE, KALAMATA, FETA, PEPPERONCINI, PICKLED RED ONION, TZATZIKI, LEMON DILL VINAIGRETTE",
+          "Description": "REVOL BABY ROMAINE, FIRE ROASTED TOMATO, ARTICHOKE, KALAMATA, FETA, PEPPERONCINI, PICKLED RED ONION, TZATZIKI, LEMON DILL VINAIGRETTE",
           "Price": "14",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
         },
         {
           "ItemName": "SUMMER SUNSETS SALAD",
-          "Description": "MIXED HARVEST GREENS, RED & YELLOW BEETS, BERRIES, COMPRESSED PINEAPPLE, MANGO, CHEVRE CROQUETTE, PASSION FRUIT VINAIGRETTE",
+          "Description": "MIXED HARVEST GREENS, RED & YELLOW BEETS, BERRIES, PINEAPPLE, MANGO, CHEVRE, PASSION FRUIT VINAIGRETTE",
           "Price": "13",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "CAESAR SALAD",
-          "Description": "ICEBERG, ROMAINE, GRAPE TOMATO, PARMESAN CHEESE, CROUTONS AND HOUSE CAESAR DRESSING",
+          "Description": "ICEBERG, ROMAINE, FIRE ROASTED TOMATO, PARMESAN CHEESE, CROUTONS AND HOUSE CAESAR DRESSING",
           "Price": "11",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -126,27 +126,20 @@
       "ItemsList": [
         {
           "ItemName": "SOUTHWEST BUDDHA BOWL",
-          "Description": "QUINOA, EDAMAME, KALE, SWEET POTATO, POBLANO, FRESNO, TOMATILLO, BLACK BEAN, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
+          "Description": "QUINOA, EDAMAME, KALE, SWEET POTATO, POBLANO & FRESNO, BLACK BEAN, GRAPE TOMATO, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
-        },
-        {
-          "ItemName": "KOREAN POKE BOWL*",
-          "Description": "SUSHI RICE, KIMCHI, MARINATED AHI TUNA, CUCUMBER, NORI, EDAMAME, CARROT RIBBONS, KALE, GOCHUJANG AIOLI",
-          "Price": "18",
-          "VegatarianAvailable": false,
-          "GlutenFreeAvailable": false
         }
       ]
     },
 
     "pizzas": {
       "GlutenFree": true,
-      "MainDescription": "OUR FLATBREADS SERVER 1-2 AND ARE CRAFTED FROM THE FINEST INGREDIENTS. GLUTEN FREE SWEET POTATO CRUST AVAILABLE ADD'L 4",
+      "MainDescription": "OUR FLATBREADS SERVE 1-2 AND ARE CRAFTED FROM THE FINEST INGREDIENTS. GLUTEN FREE SWEET POTATO CRUST AVAILABLE ADD'L 4",
       "ItemsList": [
         {
-          "ItemName": "MARGARITA",
+          "ItemName": "MARGHARITA",
           "Description": "FIRE ROASTED TOMATO, BASIL, FRESH MOZZARELLA, BALSAMIC",
           "ExtrasDescription": "",
           "Price": "15",
@@ -171,7 +164,7 @@
         },
         {
           "ItemName": "ATHENA",
-          "Description": "ARTICHOKE, SPINACH, SUN-DRIED TOMATO, KALAMATA, PEPPERONCINI, FETA, MOZZARELLA & ROMANO CHEESES",
+          "Description": "ARTICHOKE, SPINACH, FIRE ROASTED TOMATO, KALAMATA, PEPPERONCINI, FETA, MOZZARELLA & ROMANO CHEESES",
           "ExtrasDescription": "MARINATED CHICKEN 4",
           "Price": "22",
           "VegatarianAvailable": true,
@@ -217,8 +210,8 @@
       "MainDescription": "SERVED WITH HOUSE MADE POTATO CHIPS. SUBSTITUTE FRESH FRITES OR SWEET POTATO FRIES 3. GLUTEN FREE OPTION AVAILABLE.",
       "ItemsList": [
         {
-          "ItemName": "SIRLOIN STEAK SANDWICH",
-          "Description": "CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
+          "ItemName": "PRIME STEAK SANDWICH",
+          "Description": "THIN SLICED PRIME RIB, CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -234,7 +227,7 @@
         },
         {
           "ItemName": "NORTHWOODS WALLEYE SANDWICH",
-          "Description": "PAN FRIED, MUSTARD REMOULADE, SPRING GREENS, HEIRLOOM TOMATO, WILD RICE BAGUETTE",
+          "Description": "PAN FRIED, MUSTARD REMOULADE, SPRING GREENS, TOMATO, WILD RICE BAGUETTE",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -401,7 +394,7 @@
           {
             "ItemName": "BRICK OVEN CHICKEN MARSALA",
             "Description": "1/2 SEMI-BONELESS HERB ROASTED CHICKEN, FORAGER MUSHROOM, MARSALA CREAM REDUCTION",
-            "ExtrasDescription": "MARBLED MASHED POTATOES & BROCCOLINI",
+            "ExtrasDescription": "YUKON GOLD POMMES PUREE & BROCCOLINI",
             "Price": "26",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -418,16 +411,16 @@
         ],
         "ItemsList": [
           {
-            "ItemName": "STEAK FRITES",
-            "Description": "12 OZ CENTER CUT NEW YORK STRIP, FRESH FRITES",
+            "ItemName": "STEAK FRITES*",
+            "Description": "12 OZ HAND CUT RIBEYE, FRESH FRITES",
             "ExtrasDescription": "",
-            "Price": "36",
+            "Price": "33",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
           },
           {
-            "ItemName": "BASEBALL SIRLOIN",
-            "Description": "8 OZ, MARBLED MASHED POTATOES, BROCCOLINI",
+            "ItemName": "BASEBALL SIRLOIN*",
+            "Description": "8 OZ, YUKON GOLD POMMES PUREE, BROCCOLINI",
             "ExtrasDescription": "",
             "Price": "27",
             "VegatarianAvailable": false,
@@ -441,7 +434,7 @@
             "ItemName": "DUROC PORK PORTERHOUSE",
             "Description": "APPLE CIDER & STONE GROUND MUSTARD GASTRIQUE",
             "ExtrasDescription": "APPLE-ROOT VEGETABLE HASH, PREPARED MEDIUM",
-            "Price": "36",
+            "Price": "32",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
           },
@@ -466,7 +459,7 @@
             "GlutenFreeAvailable": false
           },
           {
-            "ItemName": "RIGATONI ALLA PUTTANESCA CON SALSICCIA",
+            "ItemName": "CAVATAPPI ALLA PUTTANESCA CON SALSICCIA",
             "Description": "CALABRIAN CHILI, TOMATO, ITALIAN SAUSAGE, KALAMATA OLIVE, CAPER & BASIL",
             "ExtrasDescription": "",
             "Price": "22",
@@ -489,8 +482,8 @@
   "SPECIALS": {
     "Events": [
       {
-        "EventTitle": "HAPPY HOUR MONDAY - FRIDAY 3-6 PM",
-        "EventDetails": ""
+        "EventTitle": "5 BUCK CHUCK MONDAYS",
+        "EventDetails": "$5 BASIC HAMBURGER, FRIES & TOPPINGS ADD'L"
       },
       {
         "EventTitle": "TACO TUESDAY",
@@ -518,7 +511,7 @@
       "ItemsList": [
         {
           "ItemName": "AMERICANA",
-          "Description": "TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, CHOICE OF BACON, PORK SAUSAGE LINKS, BEEF HOT LINKS, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+          "Description": "TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, CHOICE OF APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF HOT LINK, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -534,31 +527,31 @@
         },
         {
           "ItemName": "BRAZIN BENEDICT",
-          "Description": "SMOKED HAM & BACON, TWO BASTED EGGS, TOASTED ENGLISH MUFFIN, HERB & GARLIC HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+          "Description": "SMOKED HAM OR BROCCOLINI, TWO BASTED EGGS, TOASTED ENGLISH MUFFIN, HERB & GARLIC HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "16",
-          "VegatarianAvailable": false,
+          "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "CHALLAH FRENCH TOAST",
           "Description": "THREE SLICES OF THICK CUT CHALLAH, CINNAMON & SUGAR, PURE MAPLE SYRUP & FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF HOT LINKS 5",
+          "ExtrasDescription": "APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF HOT LINK 5",
           "Price": "14",
-          "VegatarianAvailable": false,
+          "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "BLUEBERRY RICOTTA & LEMON GRIDDLE CAKES",
           "Description": "LEMON INFUSED WHIPPED RICOTTA, HOUSE MADE BLUEBERRY SYRUP",
-          "ExtrasDescription": "APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF HOT LINKS 5",
+          "ExtrasDescription": "APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF HOT LINK 5",
           "Price": "14",
-          "VegatarianAvailable": false,
+          "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "DOWN ON THE BAYOU OMELET",
-          "Description": "CREOLE HOLY TRINITY, SHRIMP, BEEF HOT LINK SAUSAGE, CHEDDAR CHEESE, CAJUN HOLLANDAISE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+          "Description": "CREOLE HOLY TRINITY, SHRIMP, BEEF HOT LINK, CHEDDAR CHEESE, CAJUN HOLLANDAISE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -566,15 +559,15 @@
         },
         {
           "ItemName": "GRECIAN OMELET",
-          "Description": "HEIRLOOM TOMATO, SPINACH, KALE, KALAMATA OLIVE, OREGANO, FRESH DILL, FETA & LEMON, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "AHI TUNA 6",
+          "Description": "FIRE ROASTED TOMATO, SPINACH, KALE, KALAMATA OLIVE, OREGANO, FRESH DILL, FETA & LEMON, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+          "ExtrasDescription": "SOCKEYE SALMON 4",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
         {
           "ItemName": "MEATLOVERS OMELET",
-          "Description": "BACON, SAUSAGE, HAM, CHEDDAR, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, PINEAPPLE & BERRIES",
+          "Description": "BACON, SAUSAGE, HAM, CHEDDAR, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "16",
           "VegatarianAvailable": false,
@@ -582,7 +575,7 @@
         },
         {
           "ItemName": "HAM & CHEESE OMELET",
-          "Description": "SMOKED HAM & CHEDDAR IN A 3 EGG OMELET, BREAKFAST POTATO CASSEROLE & FRESH PINEAPPLE & BERRIES",
+          "Description": "SMOKED HAM & CHEDDAR IN A 3 EGG OMELET, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -598,7 +591,7 @@
         },
         {
           "ItemName": "FANCY AVOCADO TOAST",
-          "Description": "HEIRLOOM TOMATO, AVOCADO, SUNNY SIDE UP EGGS, ARUGULA, LEMON ON TOASTED MULTIGRAIN, FRESH PINEAPPLE & BERRIES",
+          "Description": "FIRE ROASTED TOMATO, AVOCADO, SUNNY SIDE UP EGGS, ARUGULA, LEMON ON TOASTED MULTIGRAIN, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "15",
           "VegatarianAvailable": true,
@@ -606,7 +599,7 @@
         },
         {
           "ItemName": "BREAKFAST BLT",
-          "Description": "OVER EASY EGGS, HEIRLOOM TOMATO, ARUGULA, APPLEWOOD SMOKED BACON ON CIABATTA, FRESH PINEAPPLE & BERRIES",
+          "Description": "OVER EASY EGGS, TOMATO, ARUGULA, APPLEWOOD SMOKED BACON ON CIABATTA, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -656,7 +649,7 @@
         "ItemsList": [
           {
             "ItemName": "ELOTE CORN CHOWDER",
-            "Description": "HATCH CHILES, CUMIN, CREAM, ROASTED CORN, HOT SAUCE",
+            "Description": "POBLANO, FRESNO, CUMIN, CREAM, ROASTED CORN, COTIJA, HOT SAUCE",
             "ExtrasDescription": "",
             "SmallPrice": "7",
             "LargePrice": "9",
@@ -670,14 +663,14 @@
         "EmbellishmentsDescription": "SALAD EMBELLISHMENTS",
         "Embellishments": [
           "MARINATED CHICKEN BREAST 5",
-          "PAN SEARED AHI TUNA 8",
+          "PAN SEARED SOCKEYE SALMON 6",
           "6 OZ NEW YORK STRIP 11",
           "SKEWERED SHRIMP 9"
         ],
         "ItemsList": [
           {
             "ItemName": "HOUSE SALAD",
-            "Description": "MIXED GREENS, CUCUMBER, HEIRLOOM TOMATO, CARROT RIBBONS",
+            "Description": "MIXED GREENS, CUCUMBER, GRAPE TOMATO, CARROT RIBBONS, CHOICE OF DRESSING",
             "ExtrasDescription": "",
             "Price": "8",
             "VegatarianAvailable": true,
@@ -685,7 +678,7 @@
           },
           {
             "ItemName": "CAESAR SALAD",
-            "Description": "BABY ROMAINE, GRAPE TOMATO, PARMESAN CHEESE, CROUTONS AND HOUSE CAESAR DRESSING",
+            "Description": "BABY ROMAINE, GRAPE TOMATO, PICKLED RED ONION, PARMESAN CHEESE, CROUTONS AND HOUSE CAESAR DRESSING",
             "ExtrasDescription": "", 
             "Price": "11",
             "VegatarianAvailable": true,
@@ -693,7 +686,7 @@
           },
           {
             "ItemName": "SUMMER SUNSETS SALAD",
-            "Description": "MIXED SEASONAL GREENS, RED & YELLOW BEETS, BERRIES, COMPRESSED PINEAPPLE, MANGO, CHEVRE CROQUETTE, PASSION FRUIT VINAIGRETTE",
+            "Description": "MIXED HARVEST GREENS, RED & YELLOW BEETS, WATERMELON-PINEAPPLE SALSA, FETA, FRESH DILL, MEYER LEMON VINAIGRETTE. TRY IT WITH PAN SEARED SALMON",
             "ExtrasDescription": "", 
             "Price": "13",
             "VegatarianAvailable": true,
@@ -705,8 +698,8 @@
       "OtherLunchSelections": {
         "ItemsList": [
           {
-            "ItemName": "PRIME RIB STEAK SANDWICH",
-            "Description": "CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, CIABATTA",
+            "ItemName": "PRIME STEAK SANDWICH",
+            "Description": "THIN SLICED PRIME RIB, CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
             "ExtrasDescription": "",
             "Price": "18",
             "VegatarianAvailable": false,
@@ -714,7 +707,7 @@
           },
           {
             "ItemName": "CUBAN",
-            "Description": "HAM, CARNITAS, DILL PICKLE, SWISS, STONE GROUND MUSTARD",
+            "Description": "HAM, CARNITAS, DILL PICKLE, SWISS, STONE GROUND MUSTARD, CIABATTA",
             "ExtrasDescription": "",
             "Price": "16",
             "VegatarianAvailable": false,
@@ -722,7 +715,7 @@
           },
           {
             "ItemName": "BALT",
-            "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, GARLIC PARMESAN AIOLI, CIABATTA",
+            "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
             "ExtrasDescription": "",
             "Price": "14",
             "VegatarianAvailable": false,
@@ -730,7 +723,7 @@
           },
           {
             "ItemName": "CAPRESE GRILLED CHEESE",
-            "Description": "MOZZARELLA, TOMATO, BASIL, BALSAMIC REDUCTION, SOURDOUGH",
+            "Description": "MOZZARELLA, FIRE ROASTED TOMATO, BASIL, BALSAMIC REDUCTION, SOURDOUGH",
             "ExtrasDescription": "",
             "Price": "11",
             "VegatarianAvailable": true,
@@ -755,12 +748,12 @@
       {
         "ItemName": "GRIDDLE CAKES OR FRENCH TOAST",
         "Description": "BUTTERMILK OR BLUEBERRY",
-        "ExtrasDescription": "APPLEWOOD BACON OR SAUSAGE LINKS 3",
+        "ExtrasDescription": "APPLEWOOD SMOKED BACON OR PORK SAUSAGE LINKS 3",
         "Price": "10"
       },
       {
         "ItemName": "KIDS BREAKFAST",
-        "Description": "SCRAMBLED EGGS, CHOICE OF BACON OR SAUSAGE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+        "Description": "SCRAMBLED EGGS, CHOICE OF APPLEWOOD SMOKED BACON OR PORK SAUSAGE LINKS, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
         "ExtrasDescription": "",
         "Price": "10"
       },
@@ -773,6 +766,12 @@
       {
         "ItemName": "BONELESS WINGS",
         "Description": "KIDS SIZE PORTION OF OUR BONELESS WINGS WITH FRIES, SWEET POTATO FRIES, ROASTED VEGETABLES OR FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "10"
+      },
+      {
+        "ItemName": "MAC & CHEESE",
+        "Description": "OUR HOUSE MADE MAC & CHEESE IN A PINT SIZED PORTION. SERVED WITH FRESH PINEAPPLE & BERRIES OR ROASTED VEGETABLES",
         "ExtrasDescription": "",
         "Price": "10"
       }
@@ -809,7 +808,7 @@
         "Price": "10"
       },
       {
-        "ItemName": "MARGARITA FLATBREAD",
+        "ItemName": "MARGHARITA FLATBREAD",
         "Description": "TOMATO BASIL, MOZZARELLA",
         "Price": "9"
       },
@@ -1092,18 +1091,18 @@
     "Desserts": {
       "ItemsList": [
         {
-          "ItemName": "HOUSE MADE CHEESECAKE",
-          "Description": "ASK YOUR SERVER FOR OUR FEATURED FLAVOR",
+          "ItemName": "NEW YORK VANILLA CHEESECAKE",
+          "Description": "MIXED BERRY COULIS, CHANTILLY CREAM",
           "Price": "10"
         },
         {
-          "ItemName": "BANANAS FOSTER BREAD PUDDING",
+          "ItemName": "BANANAS FOSTER TOFFEE CAKE",
           "Description": "BANANA, DARK RUM, CHANTILLY CREAM, CEYLON CINNAMON",
           "Price": "10"
         },
         {
-          "ItemName": "DARK CHOCOLATE GANACHE TART",
-          "Description": "SEMI SWEET CHOCOLATE, CREAM, GLUTEN FREE SHORTBREAD, CHANTILLY CREAM, STRAWBERRY ROSE",
+          "ItemName": "DARK CHOCOLATE S'MORE TART",
+          "Description": "SEMI SWEET & MILK CHOCOLATE, BURNT MARSHMALLOW, GRAHAM CRACKER",
           "Price": "10"
         },
         {
@@ -1114,20 +1113,10 @@
       ]
     },
 
-    "Cordials": {
+    "Martinis": {
       "ItemsList": [
         {
-          "ItemName": "GRASSHOPPER",
-          "Description": "",
-          "Price": "10"
-        },
-        {
-          "ItemName": "BRANDY ALEXANDER",
-          "Description": "",
-          "Price": "10"
-        },
-        {
-          "ItemName": "PINK SQUIRREL",
+          "ItemName": "SMORE'S",
           "Description": "",
           "Price": "10"
         },
@@ -1137,17 +1126,17 @@
           "Price": "10"
         },
         {
+          "ItemName": "GRASSHOPPER",
+          "Description": "",
+          "Price": "10"
+        },
+        {
           "ItemName": "MUDSLIDE",
           "Description": "",
           "Price": "10"
         },
         {
-          "ItemName": "DISARONNO AMARETTO",
-          "Description": "",
-          "Price": "8"
-        },
-        {
-          "ItemName": "ESPRESSO MARTINI",
+          "ItemName": "ESPRESSO",
           "Description": "",
           "Price": "10"
         },
@@ -1158,5 +1147,76 @@
         }
       ]
     }
+  },
+
+  "BREAKFAST": {
+    "ItemsList": [
+      {
+        "ItemName": "AMERICANA",
+        "Description": "TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, CHOICE OF APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF HOT LINK, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "14"
+      },
+      {
+        "ItemName": "AMERICAN LITE",
+        "Description": "TWO EGGS, ANY STYLE, CHOICE OF APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF HOT LINK, TOASTED ENGLISH MUFFIN",
+        "ExtrasDescription": "",
+        "Price": "10"
+      },
+      {
+        "ItemName": "STEAK & EGGS",
+        "Description": "TWO 4 OZ BASEBALL SIRLOIN MEDALLIONS, TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "20"
+      },
+      {
+        "ItemName": "GRECIAN OMELET",
+        "Description": "ROASTED TOMATO, SPINACH, KALE, KALAMATA OLIVE, OREGANO, FRESH DILL, FETA & LEMON, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "• SOCKEYE SALMON 4 •",
+        "Price": "16"
+      },
+      {
+        "ItemName": "HAM & CHEESE OMELET",
+        "Description": "SMOKED HAM & CHEDDAR IN A 3 EGG OMELET, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "14"
+      },
+      {
+        "ItemName": "DOWN ON THE BAYOU OMELET",
+        "Description": "CREOLE HOLY TRINITY, SHRIMP, BEEF HOT LINK, CHEDDAR CHEESE, CAJUN HOLLANDAISE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "18"
+      },
+      {
+        "ItemName": "BRAZIN BENEDICT",
+        "Description": "SMOKED HAM OR BROCCOLINI, TWO BASTED EGGS, TOASTED ENGLISH MUFFIN, HERB & GARLIC HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "16"
+      },
+      {
+        "ItemName": "CAJUN BENEDICT",
+        "Description": "SAUTÉED SHRIMP, BEEF HOT LINK, CREOLE HOLY TRINITY, TWO BASTED EGGS, CAJUN INFUSED HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "18"
+      },
+      {
+        "ItemName": "CHALLAH FRENCH TOAST",
+        "Description": "THREE SLICES OF THICK CUT CHALLAH, CINNAMON & SUGAR, PURE MAPLE SYRUP, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "• APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF HOT LINK 5 •",
+        "Price": "14"
+      },
+      {
+        "ItemName": "BLUEBERRY RICOTTA & LEMON GRIDDLE CAKES",
+        "Description": "LEMON INFUSED WHIPPED RICOTTA, HOUSE MADE BLUEBERRY SYRUP",
+        "ExtrasDescription": "• APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF HOT LINK 5 •",
+        "Price": "14"
+      },
+      {
+        "ItemName": "BREAKFAST TACOS",
+        "Description": "3 WHITE CORN OR FLOUR TORTILLAS, BEEF BARBACOA, SCRAMBLED EGGS, PICO DE GALLO, QUESO FRESCO, PICKLED ONION, CILANTRO, CHIPOTLE CREMA, FRESH PINEAPPLE & BERRIES",
+        "ExtrasDescription": "",
+        "Price": "16"
+      }
+    ]
   }
 }
