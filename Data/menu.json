@@ -82,7 +82,7 @@
       ]
     },
 
-    "salads": {
+    "saladsAndBowls": {
       "EmbellishmentsDescription": "SALAD EMBELLISHMENTS",
       "Embellishments": [
         "MARINATED CHICKEN BREAST 5",
@@ -118,6 +118,14 @@
           "Price": "11",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
+        },
+        {
+          "ItemName": "SOUTHWEST BUDDHA BOWL",
+          "Description": "QUINOA, EDAMAME, KALE, SWEET POTATO, POBLANO & FRESNO, BLACK BEAN, GRAPE TOMATO, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
+          "ExtrasDescription": "TRY IT WITH PAN SEARED SALMON OR MARINATED CHICKEN",
+          "Price": "16",
+          "VegatarianAvailable": true,
+          "GlutenFreeAvailable": true
         }
       ]
     },
