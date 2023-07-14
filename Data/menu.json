@@ -528,7 +528,7 @@
       "Time": "SATURDAY 9 AM - 12 PM, SUNDAY 9 AM - 2 PM",
       "ItemsList": [
         {
-          "ItemName": "AMERICANA",
+          "ItemName": "AMERICANA*",
           "Description": "TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, CHOICE OF APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF HOT LINK, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "14",
@@ -616,7 +616,7 @@
           "GlutenFreeAvailable": false
         },
         {
-          "ItemName": "BREAKFAST BLT",
+          "ItemName": "BREAKFAST BLT*",
           "Description": "OVER EASY EGGS, TOMATO, ARUGULA, APPLEWOOD SMOKED BACON ON CIABATTA, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "14",
@@ -624,7 +624,7 @@
           "GlutenFreeAvailable": false
         },
         {
-          "ItemName": "SUNRISE BURGER",
+          "ItemName": "SUNRISE BURGER*",
           "Description": "1/4 POUND BLACK ANGUS, CHEDDAR, PEPPER JACK, APPLEWOOD SMOKED BACON, GIARDINIERA PEPPERS, OVER EASY EGG, HOT SAUCE, BREAKFAST POTATO CASSEROLE",
           "ExtrasDescription": "",
           "Price": "13",
@@ -640,7 +640,7 @@
           "GlutenFreeAvailable": false
         },
         {
-          "ItemName": "SHAKSHUKA",
+          "ItemName": "SHAKSHUKA*",
           "Description": "BAKED EGGS WITH SAN MARZANO TOMATO, GARLIC, BELL PEPPER & FETA, GARLIC BUTTERED CIABATTA, FRESH PINEAPLLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "15",
@@ -748,7 +748,7 @@
             "GlutenFreeAvailable": false
           },
           {
-            "ItemName": "THE BRAZIN BURGER",
+            "ItemName": "THE BRAZIN BURGER*",
             "Description": "1/4 POUND BLACK ANGUS, LETTUCE, TOMATO, RAW ONION, BRAZIN BURGER SAUCE, SERVED WITH HOUSE MADE POTATO CHIPS",
             "ExtrasDescription": "BEYOND BURGER ALSO AVAILABLE 16",
             "Price": "13",
@@ -776,7 +776,7 @@
         "Price": "10"
       },
       {
-        "ItemName": "SMASH'D BURGER",
+        "ItemName": "SMASH'D BURGER*",
         "Description": "4 OZ BURGER, CHOICE OF FRIES, SWEET POTATO FRIES, ROASTED VEGETABLES, OR FRESH PINEAPPLE & BERRIES",
         "ExtrasDescription": "",
         "Price": "10"
@@ -1248,19 +1248,19 @@
     "Time": "MONDAY - FRIDAY 8 AM TO 11 AM",
     "ItemsList": [
       {
-        "ItemName": "AMERICANA",
+        "ItemName": "AMERICANA*",
         "Description": "TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, CHOICE OF APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF HOT LINK, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
         "ExtrasDescription": "",
         "Price": "14"
       },
       {
-        "ItemName": "AMERICAN LITE",
+        "ItemName": "AMERICAN LITE*",
         "Description": "TWO EGGS, ANY STYLE, CHOICE OF APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF HOT LINK, TOASTED ENGLISH MUFFIN",
         "ExtrasDescription": "",
         "Price": "10"
       },
       {
-        "ItemName": "STEAK & EGGS",
+        "ItemName": "STEAK & EGGS*",
         "Description": "4 OZ BASEBALL SIRLOIN MEDALLION, TWO EGGS, ANY STYLE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
         "ExtrasDescription": "",
         "Price": "20"
