@@ -87,7 +87,7 @@
       "Embellishments": [
         "MARINATED CHICKEN BREAST 5",
         "PAN SEARED SOCKEYE SALMON 6",
-        "4 OZ BASEBALL SIRLOION MEDALLION 8",
+        "4 OZ BASEBALL SIRLOIN MEDALLION 8",
         "SKEWERED SHRIMP 9"
       ],
       "ItemsList": [
@@ -107,7 +107,8 @@
         },
         {
           "ItemName": "SUMMER SUNSETS SALAD",
-          "Description": "MIXED HARVEST GREENS, RED & YELLOW BEETS, WATERMELON-PINEAPPLE SALSA, FETA, FRESH DILL, LEMON VINAIGRETTE. TRY IT WITH PAN SEARED SALMON",
+          "Description": "MIXED HARVEST GREENS, RED & YELLOW BEETS, WATERMELON-PINEAPPLE SALSA, FETA, FRESH DILL, LEMON VINAIGRETTE",
+          "ExtrasDescription": "TRY IT WITH PAN SEARED SALMON",
           "Price": "14",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -236,7 +237,7 @@
         },
         {
           "ItemName": "NORTHWOODS WALLEYE SANDWICH",
-          "Description": "PAN FRIED, MUSTARD REMOULADE, SPRING GREENS, TOMATO, WILD RICE BAGUETTE",
+          "Description": "PAN FRIED WALLEYE, MUSTARD REMOULADE, SPRING GREENS, TOMATO, WILD RICE BAGUETTE",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -470,7 +471,7 @@
           {
             "ItemName": "BRAZIN ALFREDO",
             "Description": "FETTUCINNI, PARMESAN, CREAM, GARLIC, FIRE ROASTED TOMATO, THYME",
-            "ExtrasDescription": "CHICKEN BREAST 5, 6 OZ NY STRIP 11, OR SKEWERED SHRIMP 9",
+            "ExtrasDescription": "CHICKEN BREAST 5, 4 OZ BASEBALL SIRLOIN MEDALLION 8, OR SKEWERED SHRIMP 9",
             "Price": "18",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
@@ -536,7 +537,7 @@
         },
         {
           "ItemName": "WALLEYE BENEDICT",
-          "Description": "PAN FRIED WALLEYE, ENGLISH MUFFIN, TWO BASTED EGGS, HOUSE MADE DILL HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+          "Description": "PAN FRIED WALLEYE, TWO BASTED EGGS, TOASTED ENGLISH MUFFIN, HOUSE MADE DILL HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "20",
           "VegatarianAvailable": false,
@@ -748,7 +749,7 @@
           },
           {
             "ItemName": "THE BRAZIN BURGER",
-            "Description": "1/4 POUND BLACK ANGUS, LETTUCE, TOMATO, RAW ONION, OUR OWN BURGER SAUCE, SERVED WITH HOUSE MADE POTATO CHIPS",
+            "Description": "1/4 POUND BLACK ANGUS, LETTUCE, TOMATO, RAW ONION, BRAZIN BURGER SAUCE, SERVED WITH HOUSE MADE POTATO CHIPS",
             "ExtrasDescription": "BEYOND BURGER ALSO AVAILABLE 16",
             "Price": "13",
             "VegatarianAvailable": false,
@@ -797,7 +798,7 @@
 
 
   "HAPPY_HOUR": {
-    "Time": "TUESDAY - FRIDAY 3 - 6 PM",
+    "Time": "MONDAY - FRIDAY 3 - 6 PM",
     "ItemsList": [
       {
         "ItemName": "JUMBO PRETZEL",
@@ -913,7 +914,7 @@
         {
           "ItemName": "MINTED LIME SPRITZ",
           "Description": "FRESH LIME JUICE, MINT & FENTIMAN'S GINGER BEER",
-          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, STRAWBERRY 1 •",
+          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PASSION FRUIT, PEACH, OR STRAWBERRY 1 •",
           "Price": "6"
         },
         {
@@ -925,7 +926,7 @@
         {
           "ItemName": "ROSEMARY LEMONADE FIZZ",
           "Description": "FRESH SQUEEZED LEMONADE, CLUB SODA, ROSEMARY",
-          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, STRAWBERRY 1 •",
+          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PASSION FRUIT, PEACH, OR STRAWBERRY 1 •",
           "Price": "6"
         }
       ]
@@ -1110,7 +1111,7 @@
             },
             {
               "ItemName": "MICHELOB ULTRA",
-              "Price": ""
+              "Price": "5"
             },
             {
               "ItemName": "GRAIN BELT PREMIUM",
@@ -1278,7 +1279,7 @@
       },
       {
         "ItemName": "DOWN ON THE BAYOU OMELET",
-        "Description": "CREOLE HOLY TRINITY, SHRIMP, BEEF HOT LINK, CHEDDAR CHEESE, CAJUN HOLLANDAISE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
+        "Description": "CREOLE HOLY TRINITY, SAUTÉED SHRIMP, BEEF HOT LINK, CHEDDAR CHEESE, CAJUN HOLLANDAISE, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
         "ExtrasDescription": "",
         "Price": "18"
       },
@@ -1290,7 +1291,7 @@
       },
       {
         "ItemName": "CAJUN BENEDICT",
-        "Description": "SAUTÉED SHRIMP, BEEF HOT LINK, CREOLE HOLY TRINITY, TWO BASTED EGGS, CAJUN INFUSED HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
+        "Description": "SAUTÉED SHRIMP, BEEF HOT LINK, TWO BASTED EGGS, TOASTED ENGLISH MUFFIN, CAJUN INFUSED HOLLANDAISE, BREAKFAST POTATO CASSEROLE, FRESH PINEAPPLE & BERRIES",
         "ExtrasDescription": "",
         "Price": "18"
       },
