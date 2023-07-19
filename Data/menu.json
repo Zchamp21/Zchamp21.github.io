@@ -20,8 +20,8 @@
         },
         {
           "ItemName": "BRICK OVEN WINGS",
-          "Description": "PASSIVE AGRESSIVE, BUFFALO, BBQ, SWEET CHILE MARMALADE, CAJUN, JERK, OR DILL PICKLE",
-          "ExtrasDescription": "BONELESS GRILLED CHICKEN 14, VEGAN CAULIFLOWER 12",
+          "Description": "PASSIVE AGRESSIVE, BUFFALO, BBQ, SWEET CHILE MARMALADE, CAJUN, JERK, OR TAJIN",
+          "ExtrasDescription": "BONELESS WINGS 14, VEGAN CAULIFLOWER 12",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -52,7 +52,7 @@
         },
         {
           "ItemName": "KOREAN LETTUCE WRAPS",
-          "Description": "HONEY-SESAME SHRIMP, REVOL ROMAINE, CUCUMBER, DAIKON RADISH, SPICY KIMCHI, PICKLED RED ONION, GOCHUJANG AIOLI",
+          "Description": "HONEY-SESAME SHRIMP, REVOL ROMAINE, CUCUMBER, DAIKON RADISH, SPICY KIMCHI, PICKLED RED ONION, CRUNCHY GARLIC, GOCHUJANG AIOLI",
           "ExtrasDescription": "",
           "Price": "16",
           "VegatarianAvailable": false,
@@ -88,7 +88,7 @@
         "MARINATED CHICKEN BREAST 5",
         "PAN SEARED SOCKEYE SALMON 6",
         "4 OZ BASEBALL SIRLOIN MEDALLION 8",
-        "SKEWERED SHRIMP 9"
+        "SKEWERED RED SHRIMP 9"
       ],
       "ItemsList": [
         {
@@ -120,19 +120,6 @@
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         },
-        {
-          "ItemName": "SOUTHWEST BUDDHA BOWL",
-          "Description": "QUINOA, EDAMAME, KALE, SWEET POTATO, POBLANO & FRESNO, BLACK BEAN, GRAPE TOMATO, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
-          "ExtrasDescription": "TRY IT WITH PAN SEARED SALMON OR MARINATED CHICKEN",
-          "Price": "16",
-          "VegatarianAvailable": true,
-          "GlutenFreeAvailable": true
-        }
-      ]
-    },
-
-    "bowls": {
-      "ItemsList": [
         {
           "ItemName": "SOUTHWEST BUDDHA BOWL",
           "Description": "QUINOA, EDAMAME, KALE, SWEET POTATO, POBLANO & FRESNO, BLACK BEAN, GRAPE TOMATO, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
@@ -182,7 +169,7 @@
         },
         {
           "ItemName": "5 ALARM FIRE",
-          "Description": "PEPPERONI, DIAVOLA SALAMI, HOT SAUSAGE, GIARDINIERA, CALABRIAN CHILI, PICKELED JALAPEÑO, MOZZARELLA, SAN MARZANO TOMATO",
+          "Description": "PEPPERONI, SOPPRESSATA SALAMI, HOT ITALIAN SAUSAGE, GIARDINIERA, CALABRIAN CHILI, MOZZARELLA, STANISLAUS TOMATO",
           "ExtrasDescription": "",
           "Price": "21",
           "VegatarianAvailable": false,
@@ -190,7 +177,7 @@
         },
         {
           "ItemName": "MINNEAPPLE",
-          "Description": "PEPPERONI, DIAVOLA SALAMI, HONEYCRISP APPLE, SAN MARZANO TOMATO",
+          "Description": "PEPPERONI, SOPPRESSATA SALAMI, HONEYCRISP APPLE, STANISLAUS TOMATO",
           "ExtrasDescription": "",
           "Price": "19",
           "VegatarianAvailable": false,
@@ -206,7 +193,7 @@
         },
         {
           "ItemName": "THE SIMPLE LIFE",
-          "Description": "PEPPERONI OR ITALIAN SAUSAGE, SAN MARZANO TOMATO, MOZZARELLA",
+          "Description": "PEPPERONI OR ITALIAN SAUSAGE, STANISLAUS TOMATO, MOZZARELLA",
           "ExtrasDescription": "",
           "Price": "13",
           "VegatarianAvailable": false,
@@ -221,7 +208,7 @@
       "ItemsList": [
         {
           "ItemName": "PRIME STEAK SANDWICH",
-          "Description": "THIN SLICED PRIME RIB, CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
+          "Description": "THIN SLICED PRIME RIB, CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, ROASTED GARLIC-PARMESAN AIOLI, SCHIACCITTA ROLL",
           "ExtrasDescription": "",
           "Price": "18",
           "VegatarianAvailable": false,
@@ -252,8 +239,8 @@
           "GlutenFreeAvailable": false
         },
         {
-          "ItemName": "BRAZIN REUBEN",
-          "Description": "CORNED BEEF, SWISS CHEESE, RUSSIAN DRESSING, COLESLAW, PUMPERNICKEL",
+          "ItemName": "BRAZIN REUBEN OR RACHEL",
+          "Description": "CORNED BEEF BRISKET OR HOUSE ROASTED TURKEY, SWISS CHEESE, RUSSIAN DRESSING, COLESLAW, PUMPERNICKEL",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -261,7 +248,7 @@
         },
         {
           "ItemName": "BALT",
-          "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
+          "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, ROASTED GARLIC-PARMESAN AIOLI, SCHIACCITTA ROLL",
           "ExtrasDescription": "",
           "Price": "14",
           "VegatarianAvailable": false,
@@ -312,7 +299,7 @@
         },
         {
           "ItemName": "SEOUL FOOD*",
-          "Description": "KIMCHI, PICKLED ONION, GOCHUJANG AIOLI, BRIE",
+          "Description": "KIMCHI, PICKLED ONION, GOCHUJANG AIOLI, WHITE CHEDDAR",
           "ExtrasDescription": "",
           "QuarterPrice": "13",
           "HalfPrice": "16",
@@ -404,7 +391,7 @@
           {
             "ItemName": "BRICK OVEN CHICKEN MARSALA",
             "Description": "1/2 SEMI-BONELESS HERB ROASTED CHICKEN, FORAGER MUSHROOM, MARSALA CREAM REDUCTION",
-            "ExtrasDescription": "YUKON GOLD POMMES PUREE & BROCCOLINI",
+            "ExtrasDescription": "PARMESAN TRUFFLE MASHED POTATOES & BROCCOLINI",
             "Price": "26",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -417,21 +404,21 @@
           "PEPPERCORN GRAVY 2",
           "CHIMICHURRI BUTTER 2",
           "ROASTED SHALLOT & FORAGER MUSHROOMS 4",
-          "SKEWERED SHRIMP 9"
+          "SKEWERED RED SHRIMP 9"
         ],
         "ItemsList": [
           {
             "ItemName": "STEAK FRITES*",
             "Description": "12 OZ HAND CUT RIBEYE, FRESH FRITES",
-            "ExtrasDescription": "",
+            "ExtrasDescription": "FRESH POMMES FRITES",
             "Price": "33",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
           },
           {
             "ItemName": "BASEBALL SIRLOIN*",
-            "Description": "8 OZ, YUKON GOLD POMMES PUREE, BROCCOLINI",
-            "ExtrasDescription": "",
+            "Description": "8 OZ SIRLOIN",
+            "ExtrasDescription": "DECONSTRUCTED LOADED BAKED POTATO, BROCCOLINI",
             "Price": "27",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -450,8 +437,8 @@
           },
           {
             "ItemName": "PAN ROASTED SOCKEYE SALMON",
-            "Description": "LINE CAUGHT SOCKEYE SALMON, ELOTE CORN SALAD, CILANTRO PESTO",
-            "ExtrasDescription": "",
+            "Description": "LINE CAUGHT SOCKEYE SALMON, TAJIN, CILANTRO PESTO",
+            "ExtrasDescription": "ELOTE SUCCOTASH",
             "Price": "24",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -471,7 +458,7 @@
           {
             "ItemName": "BRAZIN ALFREDO",
             "Description": "FETTUCINNI, PARMESAN, CREAM, GARLIC, FIRE ROASTED TOMATO, THYME",
-            "ExtrasDescription": "CHICKEN BREAST 5, 4 OZ BASEBALL SIRLOIN MEDALLION 8, OR SKEWERED SHRIMP 9",
+            "ExtrasDescription": "CHICKEN BREAST 5, 4 OZ BASEBALL SIRLOIN MEDALLION 8, OR SKEWERED RED SHRIMP 9",
             "Price": "18",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
@@ -487,7 +474,7 @@
           {
             "ItemName": "BRAZIN MAC-N-CHEESE",
             "Description": "FIVE CHEESE SAUCE, CAVATAPPI PASTA, BREAD CRUMBS, FONTINA, GRUYERE, GOUDA",
-            "ExtrasDescription": "APPLEWOOD SMOKED BACON 3, BARBACOA 5, PORK CARNITAS 5, SHRIMP 9 (BARBACOA & CARNITAS INCLUDE BBQ, PICKLED ONION & JALAPEÑO)",
+            "ExtrasDescription": "APPLEWOOD SMOKED BACON 3, BARBACOA 5, PORK CARNITAS 5, RED SHRIMP 9 (BARBACOA & CARNITAS INCLUDE BBQ, PICKLED ONION & JALAPEÑO)",
             "Price": "17",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
@@ -500,8 +487,8 @@
   "SPECIALS": {
     "Events": [
       {
-        "EventTitle": "5 BUCK CHUCK MONDAYS",
-        "EventDetails": "$5 BASIC HAMBURGER, FRIES & TOPPINGS ADD'L"
+        "EventTitle": "6 BUCK CHUCK MONDAYS",
+        "EventDetails": "$6 BASIC HAMBURGER, FRIES & TOPPINGS ADD'L"
       },
       {
         "EventTitle": "TACO TUESDAY",
@@ -641,7 +628,7 @@
         },
         {
           "ItemName": "SHAKSHUKA*",
-          "Description": "BAKED EGGS WITH SAN MARZANO TOMATO, GARLIC, BELL PEPPER & FETA, GARLIC BUTTERED CIABATTA, FRESH PINEAPLLE & BERRIES",
+          "Description": "BAKED EGGS WITH STANISLAUS TOMATO, GARLIC, BELL PEPPER & FETA, GARLIC BUTTERED CIABATTA, FRESH PINEAPLLE & BERRIES",
           "ExtrasDescription": "",
           "Price": "15",
           "VegatarianAvailable": true,
@@ -683,7 +670,7 @@
           "MARINATED CHICKEN BREAST 5",
           "PAN SEARED SOCKEYE SALMON 6",
           "4 OZ BASEBALL SIRLOIN MEDALLION 8",
-          "SKEWERED SHRIMP 9"
+          "SKEWERED RED SHRIMP 9"
         ],
         "ItemsList": [
           {
@@ -717,7 +704,7 @@
         "ItemsList": [
           {
             "ItemName": "PRIME STEAK SANDWICH",
-            "Description": "THIN SLICED PRIME RIB, CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
+            "Description": "THIN SLICED PRIME RIB, CARAMELIZED ONION, CHIMICHURRI, PROVOLONE CHEESE, SPRING GREENS, ROASTED GARLIC-PARMESAN AIOLI, SCHIACCITTA ROLL",
             "ExtrasDescription": "",
             "Price": "18",
             "VegatarianAvailable": false,
@@ -733,7 +720,7 @@
           },
           {
             "ItemName": "BALT",
-            "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, GARLIC PARMESAN AIOLI, SCHIACCITTA ROLL",
+            "Description": "APPLEWOOD SMOKED BACON, AVOCADO, LETTUCE, TOMATO, ROASTED GARLIC-PARMESAN AIOLI, SCHIACCITTA ROLL",
             "ExtrasDescription": "",
             "Price": "14",
             "VegatarianAvailable": false,
@@ -812,7 +799,7 @@
       },
       {
         "ItemName": "PARMESAN FRITES",
-        "Description": "GARLIC PARMESAN AIOLI",
+        "Description": "ROASTED GARLIC-PARMESAN AIOLI",
         "Price": "6"
       },
       {
@@ -854,56 +841,56 @@
       "ItemsList": [
         {
           "ItemName": "MAPLE OLD FASHIONED",
-          "Description": "BUFFALO TRACE BOURBON, VERMONT MAPLE, ORANGE, CHERRY BITTERS",
+          "Description": "WILLETT POTSTILL RESERVE BOURBON, VERMONT MAPLE, ORANGE, CHERRY BITTERS",
           "ExtraDetails": "",
-          "Price": "11"
+          "Price": "12"
         },
         {
           "ItemName": "MARGARITA",
-          "Description": "DON JULIO REPOSADO, COINTREAU, TUACA, LIME, AGAVE NECTAR",
+          "Description": "LIBELULA TEQUILA, COMBIER L'ORANGE, TUACA, LIME, AGAVE NECTAR",
           "ExtraDetails": "• ADD JALAPEÑO 1 •",
           "Price": "11"
         },
         {
           "ItemName": "SALTY DOG SPRITZ",
-          "Description": "PROSECCO, KETEL ONE GRAPEFRUIT & ROSE VODKA, GRAPEFRUIT JUICE, CLUB SODA, GRAPEFRUIT ICE",
+          "Description": "MOSCATO, KETEL ONE GRAPEFRUIT & ROSE VODKA, GRAPEFRUIT JUICE, CLUB SODA, GRAPEFRUIT ICE",
           "ExtraDetails": "",
           "Price": "10"
         },
         {
           "ItemName": "ROSEMARY PALOMA",
-          "Description": "PROLIJO MEZCAL, RUBY GRAPEFRUIT, SUGAR, CLUB SODA, ROSEMARY",
+          "Description": "BANHEZ MEZCAL, RUBY GRAPEFRUIT, SIMPLE SYRUP, CLUB SODA, ROSEMARY & TAJIN",
           "ExtraDetails": "",
-          "Price": "10"
+          "Price": "11"
         },
         {
           "ItemName": "CLASSIC MOJITO",
-          "Description": "REAL MCCOY 3 YR WHITE RUM, SUGAR, MINT, CLUB SODA",
+          "Description": "BOUNTY WHITE RUM, SUGAR, MINT, CLUB SODA",
           "ExtraDetails": "• VARIATIONS: STRAWBERRY, BLACKBERRY, MIXED BERRY ADD'L 1 •",
           "Price": "9"
         },
         {
           "ItemName": "BLACKBERRY BOURBON SMASH",
-          "Description": "WOODFORD RESERVE, SUGAR, LIME, BLACKBERRY, CLUB SODA",
+          "Description": "STELLUM BOURBON, SIMPLE SYRUP, LIME, BLACKBERRY, CLUB SODA",
           "ExtraDetails": "",
           "Price": "10"
         },
         {
           "ItemName": "BLOOD ORANGE NEGRONI",
-          "Description": "MCQUEEN & THE VIOLET FOG GIN, CYNAR, GRASSOTTI VERMOUTH, BLOOD ORANGE PUREE",
+          "Description": "SEERSUCKER GIN, RONDO APERTIVO, TXIMISTA VERMOUTH, BLOOD ORANGE PUREE",
           "ExtraDetails": "",
           "Price": "10"
         },
         {
           "ItemName": "DARK 'N STORMY",
-          "Description": "GOSLINGS BLACK SEAL RUM, LIME, FENTIMAN'S GINGER BEER",
+          "Description": "SAINT BENEVOLENCE 5YR HAITIAN RUM, LIME, REED'S STRONG GINGER BREW",
           "ExtraDetails": "",
           "Price": "9"
         },
         {
           "ItemName": "BRAZIN TOP SHELF MULES",
-          "Description": "CHOICE OF SPIRIT, FENTIMAN'S GINGER BEER, LIME",
-          "ExtraDetails": "• CHOPIN VODKA, SLANE IRISH WHISKEY, DON JULIO REPOSADO, HENDRICK'S GIN, OR BUFFALO TRACE BOURBON •",
+          "Description": "CHOICE OF SPIRIT, REED'S STRONG GINGER BREW, LIME",
+          "ExtraDetails": "• TLC VODKA, SLANE IRISH WHISKEY, LIBELULA TEQUILA, SEERSUCKER GIN, OR STELLUM BOURBON •",
           "Price": "10"
         }
       ]
