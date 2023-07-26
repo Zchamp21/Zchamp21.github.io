@@ -5,7 +5,7 @@
         {
           "ItemName": "BRAZIN NACHOS",
           "Description": "POBLANO, FRESNO & BEER CHEESE SAUCE, PICO DE GALLO, LIME CREMA, HOUSE MADE SALSA, LETTUCE, CHEDDAR",
-          "ExtrasDescription": "ADD PORK CARNITAS 5, BARBACOA 5, JACKFRUIT 4",
+          "ExtrasDescription": "ADD PORK CARNITAS 5, BARBACOA 5",
           "Price": "12",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
@@ -369,14 +369,6 @@
           "ExtrasDescription": "",
           "Price": "16",
           "VegatarianAvailable": false,
-          "GlutenFreeAvailable": false
-        },
-        {
-          "ItemName": "JACKFRUIT",
-          "Description": "JACKFRUIT CARNITAS, QUESO FRESCO, LIME & NAPA SLAW, CILANTRO, PICO DE GALLO, PICKLED ONION, CHIPOTLE CREMA",
-          "ExtrasDescription": "",
-          "Price": "14",
-          "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
         }
       ]
