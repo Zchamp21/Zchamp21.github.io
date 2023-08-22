@@ -538,12 +538,12 @@
       ],
       "BottomlessList": [
         {
-          "ItemName": "BOTTOMLESS BLOODY MARY 20",
+          "ItemName": "BOTTOMLESS BLOODY MARY",
           "Variations": "REGULAR, DILL PICKLE OR SPICY",
           "TimeLimit": "LIMITED TO 60 MINUTES FROM TIME OF PURCHASE, PREMIUM VODKA EXTRA"
         },
         {
-          "ItemName": "BOTTOMLESS MIMOSA 20",
+          "ItemName": "BOTTOMLESS MIMOSA",
           "Variations": "ORANGE, PINEAPPLE, CRANBERRY, PEACH",
           "TimeLimit": "LIMITED TO 60 MINUTES FROM TIME OF PURCHASE"
         }
