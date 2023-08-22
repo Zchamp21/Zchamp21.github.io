@@ -5,7 +5,7 @@
         {
           "ItemName": "BRAZIN NACHOS",
           "Description": "POBLANO, FRESNO & BEER CHEESE SAUCE, PICO DE GALLO, CHIPOTLE CREMA, HOUSE MADE SALSA, LETTUCE, CHEDDAR",
-          "ExtrasDescription": "ADD PORK CARNITAS 5, BARBACOA 5",
+          "ExtrasDescription": "ADD PORK CARNITAS OR BARBACOA",
           "Price": "12",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
@@ -37,7 +37,7 @@
         {
           "ItemName": "BRAZIN WINGS",
           "Description": "PASSIVE AGRESSIVE, BUFFALO, BBQ, SWEET CHILE MARMALADE, CAJUN, JERK, DILL PICKLE, OR TAJIN. SERVED WITH RANCH OR BLUE CHEESE & CELERY",
-          "ExtrasDescription": "BONELESS WINGS 14, BATTERED CAULIFLOWER 12",
+          "ExtrasDescription": "BONELESS WINGS, BATTERED CAULIFLOWER ALSO AVAILABLE",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -69,9 +69,9 @@
     "saladsAndBowls": {
       "EmbellishmentsDescription": "SALAD EMBELLISHMENTS",
       "Embellishments": [
-        "MARINATED CHICKEN BREAST 5",
-        "PAN SEARED SOCKEYE SALMON 6",
-        "4 OZ BASEBALL SIRLOIN MEDALLION 8"
+        "MARINATED CHICKEN BREAST",
+        "PAN SEARED SOCKEYE SALMON",
+        "4 OZ BASEBALL SIRLOIN MEDALLION"
       ],
       "ItemsList": [
         {
@@ -153,7 +153,7 @@
         {
           "ItemName": "ATHENA",
           "Description": "ROASTED GARLIC OLIVE OIL, 5 CHEESE BLEND, MARINATED ARTICHOKE, KALAMATA OLIVE, FETA CHEESE, ROASTED TOMATO, SPINACH, PEPPERONCINI, PICKLED ONION",
-          "ExtrasDescription": "ADD CHICKEN BREAST 5",
+          "ExtrasDescription": "ADD CHICKEN BREAST",
           "Price": "18",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -237,7 +237,7 @@
         {
           "ItemName": "THE BRAZIN*",
           "Description": "LETTUCE, TOMATO, RAW ONION, BRAZIN BURGER SAUCE",
-          "ExtrasDescription": "ADD CHEDDAR, PEPPER JACK, SWISS, PROVOLONE, OR BLEU 2; APPLEWOOD SMOKED BACON 3",
+          "ExtrasDescription": "ADD CHEDDAR, PEPPER JACK, SWISS, PROVOLONE, OR BLEU; APPLEWOOD SMOKED BACON",
           "QuarterPrice": "10",
           "HalfPrice": "13",
           "BeyondPrice": "14",
@@ -371,7 +371,7 @@
           {
             "ItemName": "BRAZIN ALFREDO",
             "Description": "FETTUCINNI, PARMESAN, CREAM, GARLIC, FIRE ROASTED TOMATO, THYME",
-            "ExtrasDescription": "CHICKEN BREAST 5, 4 OZ BASEBALL SIRLOIN MEDALLION 8, OR SKEWERED RED SHRIMP 9",
+            "ExtrasDescription": "ADD CHICKEN BREAST, 4 OZ BASEBALL SIRLOIN MEDALLION, OR SKEWERED RED SHRIMP",
             "Price": "18",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
@@ -379,7 +379,7 @@
           {
             "ItemName": "BRAZIN MAC-N-CHEESE",
             "Description": "FIVE CHEESE SAUCE, CAVATAPPI PASTA, BREAD CRUMBS, FONTINA, GRUYERE, GOUDA",
-            "ExtrasDescription": "APPLEWOOD SMOKED BACON 3, BARBACOA 5, BBQ PORK CARNITAS 5",
+            "ExtrasDescription": "ADD APPLEWOOD SMOKED BACON, BARBACOA, OR BBQ PORK CARNITAS",
             "Price": "17",
             "VegatarianAvailable": true,
             "GlutenFreeAvailable": false
@@ -442,7 +442,7 @@
         {
           "ItemName": "CINNAMON FRENCH TOAST",
           "Description": "THREE SLICES OF THICK CUT CINNAMON VANILLA BREAD, CINNAMON-SUGAR, PURE MAPLE SYRUP, FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF KIELBASA 5",
+          "ExtrasDescription": "ADD APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF KIELBASA",
           "Price": "14",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -450,7 +450,7 @@
         {
           "ItemName": "BLUEBERRY RICOTTA & LEMON GRIDDLE CAKES",
           "Description": "LEMON INFUSED WHIPPED RICOTTA, HOUSE MADE BLUEBERRY SYRUP",
-          "ExtrasDescription": "APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF KIELBASA 5",
+          "ExtrasDescription": "ADD APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF KIELBASA",
           "Price": "14",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -466,7 +466,7 @@
         {
           "ItemName": "GRECIAN OMELET",
           "Description": "FIRE ROASTED TOMATO, SPINACH, KALE, KALAMATA OLIVE, OREGANO, FRESH DILL, FETA & LEMON, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
-          "ExtrasDescription": "SOCKEYE SALMON 4",
+          "ExtrasDescription": "ADD SOCKEYE SALMON",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": false
@@ -490,7 +490,7 @@
         {
           "ItemName": "BREAKFAST BURRITO BOWL",
           "Description": "SWEET POTATO, RED & YELLOW BEET HASH, PICO DE GALLO, BLACK BEANS, AVOCADO, SOFT SCRAMBLED EGGS, QUESO FRESCO, PICKLED ONION, CILANTRO, CHIPOTLE CREMA",
-          "ExtrasDescription": "BEEF BARBACOA OR PORK CARNITAS 5",
+          "ExtrasDescription": "ADD BEEF BARBACOA OR PORK CARNITAS",
           "Price": "16",
           "VegatarianAvailable": true,
           "GlutenFreeAvailable": true
@@ -568,10 +568,9 @@
       "Salads": {
         "EmbellishmentsDescription": "SALAD EMBELLISHMENTS",
         "Embellishments": [
-          "MARINATED CHICKEN BREAST 5",
-          "PAN SEARED SOCKEYE SALMON 6",
-          "4 OZ BASEBALL SIRLOIN MEDALLION 8",
-          "SKEWERED RED SHRIMP 9"
+          "MARINATED CHICKEN BREAST",
+          "PAN SEARED SOCKEYE SALMON",
+          "4 OZ BASEBALL SIRLOIN MEDALLION"
         ],
         "ItemsList": [
           {
@@ -630,7 +629,7 @@
           {
             "ItemName": "THE BRAZIN BURGER*",
             "Description": "1/4 POUND BLACK ANGUS, LETTUCE, TOMATO, RAW ONION, BRAZIN BURGER SAUCE, SERVED WITH HOUSE MADE POTATO CHIPS",
-            "ExtrasDescription": "BEYOND BURGER ALSO AVAILABLE 16",
+            "ExtrasDescription": "BEYOND BURGER ALSO AVAILABLE",
             "Price": "13",
             "VegatarianAvailable": false,
             "GlutenFreeAvailable": false
@@ -646,7 +645,7 @@
       {
         "ItemName": "GRIDDLE CAKES OR FRENCH TOAST",
         "Description": "BUTTERMILK OR BLUEBERRY",
-        "ExtrasDescription": "APPLEWOOD SMOKED BACON OR PORK SAUSAGE LINKS 3",
+        "ExtrasDescription": "ADD APPLEWOOD SMOKED BACON OR PORK SAUSAGE LINKS",
         "Price": "10"
       },
       {
@@ -741,7 +740,7 @@
         {
           "ItemName": "MARGARITA",
           "Description": "LIBELULA TEQUILA, COMBIER L'ORANGE, TUACA, LIME, AGAVE NECTAR",
-          "ExtraDetails": "• ADD JALAPEÑO 1 •",
+          "ExtraDetails": "• ADD JALAPEÑO •",
           "Price": "11"
         },
         {
@@ -759,7 +758,7 @@
         {
           "ItemName": "CLASSIC MOJITO",
           "Description": "BOUNTY WHITE RUM, SUGAR, MINT, CLUB SODA",
-          "ExtraDetails": "• VARIATIONS: STRAWBERRY, BLACKBERRY, MIXED BERRY ADD'L 1 •",
+          "ExtraDetails": "• VARIATIONS: STRAWBERRY, BLACKBERRY, MIXED BERRY •",
           "Price": "9"
         },
         {
@@ -794,7 +793,7 @@
         {
           "ItemName": "MINTED LIME SPRITZ",
           "Description": "FRESH LIME JUICE, MINT & FENTIMAN'S GINGER BEER",
-          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PASSION FRUIT, PEACH, OR STRAWBERRY 1 •",
+          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PASSION FRUIT, PEACH, OR STRAWBERRY •",
           "Price": "6"
         },
         {
@@ -806,7 +805,7 @@
         {
           "ItemName": "ROSEMARY LEMONADE FIZZ",
           "Description": "FRESH SQUEEZED LEMONADE, CLUB SODA, ROSEMARY",
-          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PASSION FRUIT, PEACH, OR STRAWBERRY 1 •",
+          "ExtraDetails": "• ADD BLACKBERRY, BLOOD ORANGE, MIXED BERRY, PASSION FRUIT, PEACH, OR STRAWBERRY •",
           "Price": "6"
         }
       ]
@@ -932,11 +931,11 @@
 
     "BeerOnTap": {
       "ItemsList": [
-        "COOR'S LIGHT 5|7",
-        "MICHELOB GOLDEN LIGHT 5|7",
-        "BLUE MOON 6|8",
-        "BELLS TWO HEARTED ALE 7|9",
-        "SEASONAL DOWNEAST CIDER 6|8",
+        "COOR'S LIGHT",
+        "MICHELOB GOLDEN LIGHT",
+        "BLUE MOON",
+        "BELLS TWO HEARTED ALE",
+        "SEASONAL DOWNEAST CIDER",
         "LOCAL ROTATING",
         "SEASONAL ROTATING",
         "NATIONAL ROTATING"
@@ -1148,7 +1147,7 @@
       {
         "ItemName": "GRECIAN OMELET",
         "Description": "FIRE ROASTED TOMATO, SPINACH, KALE, KALAMATA OLIVE, OREGANO, FRESH DILL, FETA & LEMON, BREAKFAST POTATO CASSEROLE, TOASTED ENGLISH MUFFIN, FRESH PINEAPPLE & BERRIES",
-        "ExtrasDescription": "• SOCKEYE SALMON 4 •",
+        "ExtrasDescription": "• ADD SOCKEYE SALMON •",
         "Price": "16"
       },
       {
@@ -1178,13 +1177,13 @@
       {
         "ItemName": "CINNAMON FRENCH TOAST",
         "Description": "THREE SLICES OF THICK CUT CINNAMON VANILLA BREAD, CINNAMON-SUGAR, PURE MAPLE SYRUP, FRESH PINEAPPLE & BERRIES",
-        "ExtrasDescription": "• APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF KIELBASA 5 •",
+        "ExtrasDescription": "• ADD APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF KIELBASA •",
         "Price": "14"
       },
       {
         "ItemName": "BLUEBERRY RICOTTA & LEMON GRIDDLE CAKES",
         "Description": "LEMON INFUSED WHIPPED RICOTTA, HOUSE MADE BLUEBERRY SYRUP",
-        "ExtrasDescription": "• APPLEWOOD SMOKED BACON 4, PORK SAUSAGE LINKS 4, BEEF KIELBASA 5 •",
+        "ExtrasDescription": "• ADD APPLEWOOD SMOKED BACON, PORK SAUSAGE LINKS, OR BEEF KIELBASA •",
         "Price": "14"
       },
       {
