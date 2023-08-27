@@ -97,7 +97,7 @@
         },
         {
           "ItemName": "SOUTHWEST BUDDHA BOWL",
-          "Description": "QUINOA, EDAMAME, KALE, ROOT VEGETABLE HASH, POBLANO & FRESNO, BLACK BEAN, FIRE ROASTED TOMATO, CILANTRO, QUESO FRESCO, AVOCADO, LIME VINAIGRETTE",
+          "Description": "QUINOA, KALE, CUMIN ROASTED SWEET POTATO, ANCHO CHILE DUSTED CRUNCHY GARBANZO, POBLANO & FRESNO, PICO DE GALLO, CHAYOTE-CUCUMBER SLAW, CILANTRO, QUESO FRESCO, TOMATILLO-AVOCADO-LIME DRESSING",
           "ExtrasDescription": "TRY IT WITH PAN SEARED SALMON OR MARINATED CHICKEN",
           "Price": "14",
           "VegatarianAvailable": true,
@@ -223,6 +223,17 @@
           "HalfPrice": "16",
           "BeyondPrice": "17",
           "ChickenPrice": "15",
+          "VegatarianAvailable": false,
+          "GlutenFreeAvailable": false
+        },
+        {
+          "ItemName": "BLACK & BLUEJACK*",
+          "Description": "BLACK PEPPER, MARBLE BLUEJACK, CARAMELIZED ONION, BLUE CHEESE MOUSSE, SPRING GREENS, TOMATO",
+          "ExtrasDescription": "",
+          "QuarterPrice": "12",
+          "HalfPrice": "15",
+          "BeyondPrice": "16",
+          "ChickenPrice": "14",
           "VegatarianAvailable": false,
           "GlutenFreeAvailable": false
         },
@@ -393,7 +404,7 @@
       },
       {
         "EventTitle": "THURSDAY NIGHT DATE NIGHT 1/2 PRICE BOTTLES OF WINE",
-        "EventDetails": "2 FOR $30 SPECIALTY PASTAS, PROTEIN EXTRA"
+        "EventDetails": "2 FOR $30 SPECIALTY PASTAS. ASK YOUR SERVER FOR THIS WEEKS FEATURES"
       },
       {
         "EventTitle": "FRIDAY & SATURDAY SEA SALT & ROSEMARY CRUSTED PRIME RIB",
