@@ -404,7 +404,8 @@
     "Events": [
       {
         "EventTitle": "TACO TUESDAY",
-        "EventDetails": "$3 \"FAST FOOD\" TACOS & $5 MARGARITAS"
+        "EventDetails": "$3 \"FAST FOOD\" TACOS & $5 MARGARITAS",
+        "ExtraEventDetails": ""
       },
       {
         "EventTitle": "WING IT WEDNESDAY",
@@ -413,11 +414,13 @@
       },
       {
         "EventTitle": "THURSDAY NIGHT DATE NIGHT 1/2 PRICE BOTTLES OF WINE",
-        "EventDetails": "2 FOR $30 SPECIALTY PASTAS. ASK YOUR SERVER FOR THIS WEEKS FEATURES"
+        "EventDetails": "2 FOR $30 SPECIALTY PASTAS. ASK YOUR SERVER FOR THIS WEEKS FEATURES",
+        "ExtraEventDetails": ""
       },
       {
         "EventTitle": "FRIDAY & SATURDAY SEA SALT & ROSEMARY CRUSTED PRIME RIB",
-        "EventDetails": "FRESH FISH & SEAFOOD"
+        "EventDetails": "FRESH FISH & SEAFOOD",
+        "ExtraEventDetails": ""
       }
     ]
   },
