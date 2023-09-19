@@ -428,7 +428,7 @@
 
   "BRUNCH": {
     "WeekendBrunch": {
-      "Time": "SATURDAY 9 AM - 12 PM, SUNDAY 9 AM - 2 PM",
+      "Time": "FRIDAY 9 AM - 12 PM, SATURDAY 9 AM - 12 PM, SUNDAY 9 AM - 2 PM",
       "ItemsList": [
         {
           "ItemName": "AMERICANA*",
